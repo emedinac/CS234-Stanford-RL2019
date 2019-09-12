@@ -174,8 +174,6 @@ def value_iteration(P, nS, nA, gamma=0.9, tol=1e-3):
                     value_function[s] += probability*prev_value_function[nextstate]
                 as_vector.append(reward+gamma*value_function[s])
             value_function[s] = np.max(as_vector) # Real value_function[s], V[s]
-            # policy[s] = np.argmax(as_vector) # Real value_function[s], V[s]
-        print(value_function)
     policy = policy_improvement(P, nS, nA, value_function, policy, gamma)
     ############################
     return value_function, policy
