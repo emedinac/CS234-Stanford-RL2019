@@ -2,8 +2,12 @@
 CS234 Course Assignments from Stanford about Reinforcement Learning. Only coding section will be contained in this repository.
 Theoretical questions will be available on request only (hard task to do in Latex).
 
-Assignment1:
+### Assignment1
+Using the Frozen Lake MDP from OpenAI Gym, implement the following algorihtms for the deterministic and stochastic environments:
 - policy_evaluation, policy_improvement and policy_iteration
 - value_iteration
 
-Assignment2:
+'''
+python3 vi_and_pi.py
+'''
+### Assignment2:
