@@ -1,0 +1,1331 @@
+2019-09-13 14:16:49,489:DEBUG: pickle loaded: /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/utils/test_env.py
+2019-09-13 14:16:49,489:DEBUG: pickle loaded: /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/utils/test_env.py
+2019-09-13 14:16:49,489:DEBUG: pickle loaded: /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/utils/test_env.py
+2019-09-13 14:16:49,489:DEBUG: pickle loaded: /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/utils/test_env.py
+2019-09-13 14:16:49,489:DEBUG: pickle loaded: /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/utils/test_env.py
+2019-09-13 14:16:51,725:DEBUG: diff parser start
+2019-09-13 14:16:51,725:DEBUG: diff parser start
+2019-09-13 14:16:51,725:DEBUG: diff parser start
+2019-09-13 14:16:51,725:DEBUG: diff parser start
+2019-09-13 14:16:51,725:DEBUG: diff parser start
+2019-09-13 14:16:51,725:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:16:51,725:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:16:51,725:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:16:51,725:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:16:51,725:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:16:51,725:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:16:51,725:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:16:51,725:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:16:51,725:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:16:51,725:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:16:51,725:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:16:51,725:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:16:51,725:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:16:51,725:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:16:51,725:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:16:51,725:DEBUG: diff parser end
+2019-09-13 14:16:51,725:DEBUG: diff parser end
+2019-09-13 14:16:51,725:DEBUG: diff parser end
+2019-09-13 14:16:51,725:DEBUG: diff parser end
+2019-09-13 14:16:51,725:DEBUG: diff parser end
+2019-09-13 14:19:18,867:DEBUG: diff parser start
+2019-09-13 14:19:18,867:DEBUG: diff parser start
+2019-09-13 14:19:18,867:DEBUG: diff parser start
+2019-09-13 14:19:18,867:DEBUG: diff parser start
+2019-09-13 14:19:18,867:DEBUG: diff parser start
+2019-09-13 14:19:18,868:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:19:18,868:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:19:18,868:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:19:18,868:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:19:18,868:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:19:18,868:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:19:18,868:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:19:18,868:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:19:18,868:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:19:18,868:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:19:18,869:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:19:18,869:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:19:18,869:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:19:18,869:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:19:18,869:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:19:18,870:DEBUG: diff parser end
+2019-09-13 14:19:18,870:DEBUG: diff parser end
+2019-09-13 14:19:18,870:DEBUG: diff parser end
+2019-09-13 14:19:18,870:DEBUG: diff parser end
+2019-09-13 14:19:18,870:DEBUG: diff parser end
+2019-09-13 14:19:18,876:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/__init__.py
+2019-09-13 14:19:18,876:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/__init__.py
+2019-09-13 14:19:18,876:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/__init__.py
+2019-09-13 14:19:18,876:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/__init__.py
+2019-09-13 14:19:18,876:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/__init__.py
+2019-09-13 14:19:23,267:DEBUG: diff parser start
+2019-09-13 14:19:23,267:DEBUG: diff parser start
+2019-09-13 14:19:23,267:DEBUG: diff parser start
+2019-09-13 14:19:23,267:DEBUG: diff parser start
+2019-09-13 14:19:23,267:DEBUG: diff parser start
+2019-09-13 14:19:23,268:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:19:23,268:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:19:23,268:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:19:23,268:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:19:23,268:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:19:23,268:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:19:23,268:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:19:23,268:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:19:23,268:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:19:23,268:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:19:23,269:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:19:23,269:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:19:23,269:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:19:23,269:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:19:23,269:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:19:23,269:DEBUG: diff parser end
+2019-09-13 14:19:23,269:DEBUG: diff parser end
+2019-09-13 14:19:23,269:DEBUG: diff parser end
+2019-09-13 14:19:23,269:DEBUG: diff parser end
+2019-09-13 14:19:23,269:DEBUG: diff parser end
+2019-09-13 14:20:37,544:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/__init__.py
+2019-09-13 14:20:43,283:DEBUG: diff parser start
+2019-09-13 14:20:43,284:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:20:43,284:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:20:43,285:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:20:43,285:DEBUG: diff parser end
+2019-09-13 14:20:43,439:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow_core/python/framework/dtypes.py
+2019-09-13 14:20:44,326:DEBUG: pickle loaded: /usr/lib/python3.6/importlib/_bootstrap_external.py
+2019-09-13 14:20:44,346:DEBUG: pickle loaded: /usr/lib/python3.6/importlib/_bootstrap.py
+2019-09-13 14:20:44,349:DEBUG: pickle loaded: /usr/lib/python3.6/__future__.py
+2019-09-13 14:20:46,075:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow_core/python/ops/array_ops.py
+2019-09-13 14:20:46,167:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow_core/python/ops/gen_array_ops.py
+2019-09-13 14:24:25,317:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:52: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-13 14:26:41,490:DEBUG: pickle loaded: /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/utils/test_env.py
+2019-09-13 14:26:41,490:DEBUG: pickle loaded: /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/utils/test_env.py
+2019-09-13 14:26:41,490:DEBUG: pickle loaded: /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/utils/test_env.py
+2019-09-13 14:26:41,490:DEBUG: pickle loaded: /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/utils/test_env.py
+2019-09-13 14:26:41,490:DEBUG: pickle loaded: /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/utils/test_env.py
+2019-09-13 14:26:41,490:DEBUG: pickle loaded: /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/utils/test_env.py
+2019-09-13 14:26:41,490:DEBUG: pickle loaded: /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/utils/test_env.py
+2019-09-13 14:26:41,490:DEBUG: pickle loaded: /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/utils/test_env.py
+2019-09-13 14:26:41,490:DEBUG: pickle loaded: /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/utils/test_env.py
+2019-09-13 14:27:04,555:DEBUG: diff parser start
+2019-09-13 14:27:04,555:DEBUG: diff parser start
+2019-09-13 14:27:04,555:DEBUG: diff parser start
+2019-09-13 14:27:04,555:DEBUG: diff parser start
+2019-09-13 14:27:04,555:DEBUG: diff parser start
+2019-09-13 14:27:04,555:DEBUG: diff parser start
+2019-09-13 14:27:04,555:DEBUG: diff parser start
+2019-09-13 14:27:04,555:DEBUG: diff parser start
+2019-09-13 14:27:04,555:DEBUG: diff parser start
+2019-09-13 14:27:04,556:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:27:04,556:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:27:04,556:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:27:04,556:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:27:04,556:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:27:04,556:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:27:04,556:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:27:04,556:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:27:04,556:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:27:04,557:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:27:04,557:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:27:04,557:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:27:04,557:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:27:04,557:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:27:04,557:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:27:04,557:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:27:04,557:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:27:04,557:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:27:04,558:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:27:04,558:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:27:04,558:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:27:04,558:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:27:04,558:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:27:04,558:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:27:04,558:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:27:04,558:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:27:04,558:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:27:04,559:DEBUG: diff parser end
+2019-09-13 14:27:04,559:DEBUG: diff parser end
+2019-09-13 14:27:04,559:DEBUG: diff parser end
+2019-09-13 14:27:04,559:DEBUG: diff parser end
+2019-09-13 14:27:04,559:DEBUG: diff parser end
+2019-09-13 14:27:04,559:DEBUG: diff parser end
+2019-09-13 14:27:04,559:DEBUG: diff parser end
+2019-09-13 14:27:04,559:DEBUG: diff parser end
+2019-09-13 14:27:04,559:DEBUG: diff parser end
+2019-09-13 14:29:01,140:DEBUG: diff parser start
+2019-09-13 14:29:01,140:DEBUG: diff parser start
+2019-09-13 14:29:01,140:DEBUG: diff parser start
+2019-09-13 14:29:01,140:DEBUG: diff parser start
+2019-09-13 14:29:01,140:DEBUG: diff parser start
+2019-09-13 14:29:01,140:DEBUG: diff parser start
+2019-09-13 14:29:01,140:DEBUG: diff parser start
+2019-09-13 14:29:01,140:DEBUG: diff parser start
+2019-09-13 14:29:01,140:DEBUG: diff parser start
+2019-09-13 14:29:01,140:DEBUG: diff parser start
+2019-09-13 14:29:01,141:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:29:01,141:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:29:01,141:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:29:01,141:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:29:01,141:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:29:01,141:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:29:01,141:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:29:01,141:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:29:01,141:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:29:01,141:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:29:01,142:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:29:01,142:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:29:01,142:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:29:01,142:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:29:01,142:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:29:01,142:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:29:01,142:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:29:01,142:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:29:01,142:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:29:01,142:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:29:01,143:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:29:01,143:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:29:01,143:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:29:01,143:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:29:01,143:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:29:01,143:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:29:01,143:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:29:01,143:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:29:01,143:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:29:01,143:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:29:01,143:DEBUG: diff parser end
+2019-09-13 14:29:01,143:DEBUG: diff parser end
+2019-09-13 14:29:01,143:DEBUG: diff parser end
+2019-09-13 14:29:01,143:DEBUG: diff parser end
+2019-09-13 14:29:01,143:DEBUG: diff parser end
+2019-09-13 14:29:01,143:DEBUG: diff parser end
+2019-09-13 14:29:01,143:DEBUG: diff parser end
+2019-09-13 14:29:01,143:DEBUG: diff parser end
+2019-09-13 14:29:01,143:DEBUG: diff parser end
+2019-09-13 14:29:01,143:DEBUG: diff parser end
+2019-09-13 14:29:03,460:DEBUG: diff parser start
+2019-09-13 14:29:03,460:DEBUG: diff parser start
+2019-09-13 14:29:03,460:DEBUG: diff parser start
+2019-09-13 14:29:03,460:DEBUG: diff parser start
+2019-09-13 14:29:03,460:DEBUG: diff parser start
+2019-09-13 14:29:03,460:DEBUG: diff parser start
+2019-09-13 14:29:03,460:DEBUG: diff parser start
+2019-09-13 14:29:03,460:DEBUG: diff parser start
+2019-09-13 14:29:03,460:DEBUG: diff parser start
+2019-09-13 14:29:03,460:DEBUG: diff parser start
+2019-09-13 14:29:03,461:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:29:03,461:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:29:03,461:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:29:03,461:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:29:03,461:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:29:03,461:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:29:03,461:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:29:03,461:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:29:03,461:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:29:03,461:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:29:03,462:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:29:03,462:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:29:03,462:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:29:03,462:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:29:03,462:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:29:03,462:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:29:03,462:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:29:03,462:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:29:03,462:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:29:03,462:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:29:03,463:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:29:03,463:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:29:03,463:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:29:03,463:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:29:03,463:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:29:03,463:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:29:03,463:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:29:03,463:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:29:03,463:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:29:03,463:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:29:03,463:DEBUG: diff parser end
+2019-09-13 14:29:03,463:DEBUG: diff parser end
+2019-09-13 14:29:03,463:DEBUG: diff parser end
+2019-09-13 14:29:03,463:DEBUG: diff parser end
+2019-09-13 14:29:03,463:DEBUG: diff parser end
+2019-09-13 14:29:03,463:DEBUG: diff parser end
+2019-09-13 14:29:03,463:DEBUG: diff parser end
+2019-09-13 14:29:03,463:DEBUG: diff parser end
+2019-09-13 14:29:03,463:DEBUG: diff parser end
+2019-09-13 14:29:03,463:DEBUG: diff parser end
+2019-09-13 14:29:18,568:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:52: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-13 14:31:07,526:DEBUG: pickle loaded: /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/utils/test_env.py
+2019-09-13 14:31:12,492:DEBUG: diff parser start
+2019-09-13 14:31:12,492:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:31:12,493:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:31:12,494:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:31:12,494:DEBUG: diff parser end
+2019-09-13 14:31:12,511:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/numpy/__init__.py
+2019-09-13 14:31:16,380:DEBUG: diff parser start
+2019-09-13 14:31:16,381:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:31:16,381:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:31:16,382:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:31:16,382:DEBUG: diff parser end
+2019-09-13 14:33:23,660:DEBUG: diff parser start
+2019-09-13 14:33:23,660:DEBUG: diff parser start
+2019-09-13 14:33:23,661:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:33:23,661:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:33:23,661:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:33:23,661:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:33:23,662:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:33:23,662:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:33:23,662:DEBUG: diff parser end
+2019-09-13 14:33:23,662:DEBUG: diff parser end
+2019-09-13 14:33:28,287:DEBUG: diff parser start
+2019-09-13 14:33:28,287:DEBUG: diff parser start
+2019-09-13 14:33:28,288:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:33:28,288:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:33:28,288:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:33:28,288:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:33:28,288:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:33:28,288:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:33:28,288:DEBUG: diff parser end
+2019-09-13 14:33:28,288:DEBUG: diff parser end
+2019-09-13 14:33:30,043:DEBUG: diff parser start
+2019-09-13 14:33:30,043:DEBUG: diff parser start
+2019-09-13 14:33:30,044:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:33:30,044:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:33:30,044:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:33:30,044:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:33:30,045:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:33:30,045:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:33:30,045:DEBUG: diff parser end
+2019-09-13 14:33:30,045:DEBUG: diff parser end
+2019-09-13 14:33:41,545:DEBUG: diff parser start
+2019-09-13 14:33:41,545:DEBUG: diff parser start
+2019-09-13 14:33:41,545:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:33:41,545:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:33:41,545:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:33:41,545:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:33:41,547:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:33:41,547:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:33:41,547:DEBUG: diff parser end
+2019-09-13 14:33:41,547:DEBUG: diff parser end
+2019-09-13 14:33:52,837:DEBUG: diff parser start
+2019-09-13 14:33:52,837:DEBUG: diff parser start
+2019-09-13 14:33:52,837:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:33:52,837:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:33:52,837:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:33:52,837:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:33:52,838:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:33:52,838:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:33:52,839:DEBUG: diff parser end
+2019-09-13 14:33:52,839:DEBUG: diff parser end
+2019-09-13 14:36:15,600:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:53: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-13 14:37:53,468:DEBUG: diff parser start
+2019-09-13 14:37:53,468:DEBUG: diff parser start
+2019-09-13 14:37:53,468:DEBUG: diff parser start
+2019-09-13 14:37:53,469:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:37:53,469:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:37:53,469:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:37:53,469:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:37:53,469:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:37:53,469:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:37:53,470:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:37:53,470:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:37:53,470:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:37:53,471:DEBUG: diff parser end
+2019-09-13 14:37:53,471:DEBUG: diff parser end
+2019-09-13 14:37:53,471:DEBUG: diff parser end
+2019-09-13 14:38:01,589:DEBUG: diff parser start
+2019-09-13 14:38:01,589:DEBUG: diff parser start
+2019-09-13 14:38:01,589:DEBUG: diff parser start
+2019-09-13 14:38:01,589:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:38:01,589:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:38:01,589:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:38:01,589:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:38:01,589:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:38:01,589:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:38:01,590:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:38:01,590:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:38:01,590:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:38:01,591:DEBUG: diff parser end
+2019-09-13 14:38:01,591:DEBUG: diff parser end
+2019-09-13 14:38:01,591:DEBUG: diff parser end
+2019-09-13 14:38:05,533:DEBUG: diff parser start
+2019-09-13 14:38:05,533:DEBUG: diff parser start
+2019-09-13 14:38:05,533:DEBUG: diff parser start
+2019-09-13 14:38:05,534:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:38:05,534:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:38:05,534:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:38:05,534:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:38:05,534:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:38:05,534:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:38:05,535:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:38:05,535:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:38:05,535:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:38:05,535:DEBUG: diff parser end
+2019-09-13 14:38:05,535:DEBUG: diff parser end
+2019-09-13 14:38:05,535:DEBUG: diff parser end
+2019-09-13 14:38:07,965:DEBUG: diff parser start
+2019-09-13 14:38:07,965:DEBUG: diff parser start
+2019-09-13 14:38:07,965:DEBUG: diff parser start
+2019-09-13 14:38:07,965:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:38:07,965:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:38:07,965:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:38:07,965:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:38:07,965:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:38:07,965:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:38:07,966:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:38:07,966:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:38:07,966:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:38:07,967:DEBUG: diff parser end
+2019-09-13 14:38:07,967:DEBUG: diff parser end
+2019-09-13 14:38:07,967:DEBUG: diff parser end
+2019-09-13 14:38:13,805:DEBUG: diff parser start
+2019-09-13 14:38:13,805:DEBUG: diff parser start
+2019-09-13 14:38:13,805:DEBUG: diff parser start
+2019-09-13 14:38:13,807:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:38:13,807:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:38:13,807:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:38:13,807:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:38:13,807:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:38:13,807:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:38:13,808:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:38:13,808:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:38:13,808:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:38:13,808:DEBUG: diff parser end
+2019-09-13 14:38:13,808:DEBUG: diff parser end
+2019-09-13 14:38:13,808:DEBUG: diff parser end
+2019-09-13 14:40:09,008:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: The name tf.layers.Dense is deprecated. Please use tf.compat.v1.layers.Dense instead.
+
+2019-09-13 14:40:09,008:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: The name tf.layers.Dense is deprecated. Please use tf.compat.v1.layers.Dense instead.
+
+2019-09-13 14:40:09,008:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: The name tf.layers.Dense is deprecated. Please use tf.compat.v1.layers.Dense instead.
+
+2019-09-13 14:40:09,008:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: The name tf.layers.Dense is deprecated. Please use tf.compat.v1.layers.Dense instead.
+
+2019-09-13 14:40:09,008:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-13 14:40:09,008:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-13 14:40:09,008:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-13 14:40:09,008:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-13 14:40:09,015:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f7ce5d16828>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f7ce5d16828>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 14:40:09,015:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f7ce5d16828>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f7ce5d16828>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 14:40:09,015:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f7ce5d16828>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f7ce5d16828>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 14:40:09,015:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f7ce5d16828>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f7ce5d16828>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 14:40:20,941:DEBUG: diff parser start
+2019-09-13 14:40:20,941:DEBUG: diff parser start
+2019-09-13 14:40:20,941:DEBUG: diff parser start
+2019-09-13 14:40:20,941:DEBUG: diff parser start
+2019-09-13 14:40:20,942:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:40:20,942:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:40:20,942:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:40:20,942:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:40:20,942:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:40:20,942:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:40:20,942:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:40:20,942:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:40:20,944:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:40:20,944:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:40:20,944:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:40:20,944:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:40:20,944:DEBUG: diff parser end
+2019-09-13 14:40:20,944:DEBUG: diff parser end
+2019-09-13 14:40:20,944:DEBUG: diff parser end
+2019-09-13 14:40:20,944:DEBUG: diff parser end
+2019-09-13 14:40:20,984:DEBUG: pickle loaded: /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/utils/test_env.py
+2019-09-13 14:40:20,984:DEBUG: pickle loaded: /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/utils/test_env.py
+2019-09-13 14:40:20,984:DEBUG: pickle loaded: /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/utils/test_env.py
+2019-09-13 14:40:20,984:DEBUG: pickle loaded: /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/utils/test_env.py
+2019-09-13 14:40:21,026:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/jedi/api/interpreter.py
+2019-09-13 14:40:21,026:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/jedi/api/interpreter.py
+2019-09-13 14:40:21,026:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/jedi/api/interpreter.py
+2019-09-13 14:40:21,026:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/jedi/api/interpreter.py
+2019-09-13 14:40:21,044:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/IPython/core/interactiveshell.py
+2019-09-13 14:40:21,044:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/IPython/core/interactiveshell.py
+2019-09-13 14:40:21,044:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/IPython/core/interactiveshell.py
+2019-09-13 14:40:21,044:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/IPython/core/interactiveshell.py
+2019-09-13 14:40:21,048:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/IPython/core/autocall.py
+2019-09-13 14:40:21,048:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/IPython/core/autocall.py
+2019-09-13 14:40:21,048:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/IPython/core/autocall.py
+2019-09-13 14:40:21,048:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/IPython/core/autocall.py
+2019-09-13 14:47:04,988:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:52: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-13 14:47:04,999:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: The name tf.layers.Dense is deprecated. Please use tf.compat.v1.layers.Dense instead.
+
+2019-09-13 14:47:04,999:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-13 14:47:05,008:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f16aa965048>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f16aa965048>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 14:47:20,426:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:52: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-13 14:47:20,437:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: The name tf.layers.Dense is deprecated. Please use tf.compat.v1.layers.Dense instead.
+
+2019-09-13 14:47:20,437:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-13 14:47:20,447:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fd5eb8bf240>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fd5eb8bf240>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 14:47:21,411:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/__init__.py
+2019-09-13 14:47:24,334:DEBUG: diff parser start
+2019-09-13 14:47:24,335:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:47:24,335:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:47:24,336:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:47:24,336:DEBUG: diff parser end
+2019-09-13 14:49:06,110:DEBUG: diff parser start
+2019-09-13 14:49:06,110:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:49:06,111:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:49:06,112:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:49:06,112:DEBUG: diff parser end
+2019-09-13 14:49:09,470:DEBUG: diff parser start
+2019-09-13 14:49:09,470:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:49:09,470:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:49:09,471:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:49:09,472:DEBUG: diff parser end
+2019-09-13 14:49:12,550:DEBUG: diff parser start
+2019-09-13 14:49:12,550:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:49:12,550:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:49:12,551:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:49:12,551:DEBUG: diff parser end
+2019-09-13 14:50:45,927:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fd60e616668>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fd60e616668>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 14:50:45,927:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fd60e616668>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fd60e616668>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 14:51:01,652:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fd60e616a58>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fd60e616a58>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 14:51:01,652:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fd60e616a58>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fd60e616a58>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 14:51:01,652:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fd60e616a58>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fd60e616a58>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 14:51:08,647:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fd60e80add8>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fd60e80add8>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 14:51:08,647:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fd60e80add8>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fd60e80add8>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 14:51:08,647:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fd60e80add8>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fd60e80add8>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 14:51:08,647:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fd60e80add8>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fd60e80add8>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 14:51:08,662:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fd60e647828>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fd60e647828>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 14:51:08,662:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fd60e647828>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fd60e647828>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 14:51:08,662:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fd60e647828>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fd60e647828>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 14:51:08,662:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fd60e647828>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fd60e647828>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 14:51:08,666:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:100: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2019-09-13 14:51:08,666:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:100: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2019-09-13 14:51:08,666:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:100: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2019-09-13 14:51:08,666:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:100: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2019-09-13 14:51:08,881:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:132: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+2019-09-13 14:51:08,881:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:132: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+2019-09-13 14:51:08,881:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:132: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+2019-09-13 14:51:08,881:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:132: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+2019-09-13 14:56:29,241:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:52: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-13 14:56:29,252:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:93: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-13 14:56:29,262:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff6be434ef0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff6be434ef0>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 14:56:29,266:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: The name tf.layers.Dense is deprecated. Please use tf.compat.v1.layers.Dense instead.
+
+2019-09-13 14:56:51,220:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/__init__.py
+2019-09-13 14:56:53,776:DEBUG: diff parser start
+2019-09-13 14:56:53,776:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:56:53,776:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:56:53,777:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:56:53,777:DEBUG: diff parser end
+2019-09-13 14:57:04,375:DEBUG: diff parser start
+2019-09-13 14:57:04,375:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 14:57:04,376:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 14:57:04,376:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 14:57:04,377:DEBUG: diff parser end
+2019-09-13 14:57:15,709:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff70201c630>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff70201c630>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 14:57:15,709:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff70201c630>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff70201c630>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 14:57:15,714:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-13 14:57:15,714:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-13 14:57:15,716:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-13 14:57:15,716:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-13 14:57:15,769:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7ff70201c630>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7ff70201c630>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-13 14:57:15,769:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7ff70201c630>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7ff70201c630>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-13 14:57:15,776:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff6be3ac2b0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff6be3ac2b0>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 14:57:15,776:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff6be3ac2b0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff6be3ac2b0>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 14:57:15,827:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7ff6be3ac2b0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7ff6be3ac2b0>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-13 14:57:15,827:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7ff6be3ac2b0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7ff6be3ac2b0>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-13 14:57:15,829:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:100: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2019-09-13 14:57:15,829:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:100: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2019-09-13 14:57:16,017:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:132: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+2019-09-13 14:57:16,017:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:132: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+2019-09-13 14:58:30,652:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff66a725748>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff66a725748>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 14:58:30,652:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff66a725748>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff66a725748>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 14:58:30,652:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff66a725748>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff66a725748>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 14:58:30,706:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7ff6be1cada0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7ff6be1cada0>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-13 14:58:30,706:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7ff6be1cada0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7ff6be1cada0>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-13 14:58:30,706:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7ff6be1cada0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7ff6be1cada0>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-13 14:58:30,713:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff6be088358>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff6be088358>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 14:58:30,713:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff6be088358>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff6be088358>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 14:58:30,713:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff6be088358>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff6be088358>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 14:58:30,765:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7ff6be088358>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7ff6be088358>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-13 14:58:30,765:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7ff6be088358>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7ff6be088358>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-13 14:58:30,765:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7ff6be088358>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7ff6be088358>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-13 14:58:33,343:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff66a73ea58>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff66a73ea58>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 14:58:33,343:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff66a73ea58>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff66a73ea58>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 14:58:33,343:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff66a73ea58>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff66a73ea58>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 14:58:33,343:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff66a73ea58>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff66a73ea58>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 14:58:33,404:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7ff66a73ea58>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7ff66a73ea58>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-13 14:58:33,404:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7ff66a73ea58>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7ff66a73ea58>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-13 14:58:33,404:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7ff66a73ea58>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7ff66a73ea58>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-13 14:58:33,404:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7ff66a73ea58>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7ff66a73ea58>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-13 14:58:33,411:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff6be081ac8>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff6be081ac8>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 14:58:33,411:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff6be081ac8>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff6be081ac8>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 14:58:33,411:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff6be081ac8>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff6be081ac8>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 14:58:33,411:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff6be081ac8>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff6be081ac8>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 14:58:33,463:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7ff6be081ac8>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7ff6be081ac8>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-13 14:58:33,463:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7ff6be081ac8>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7ff6be081ac8>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-13 14:58:33,463:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7ff6be081ac8>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7ff6be081ac8>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-13 14:58:33,463:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7ff6be081ac8>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7ff6be081ac8>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-13 15:47:14,715:DEBUG: diff parser start
+2019-09-13 15:47:14,715:DEBUG: diff parser start
+2019-09-13 15:47:14,715:DEBUG: diff parser start
+2019-09-13 15:47:14,715:DEBUG: diff parser start
+2019-09-13 15:47:14,715:DEBUG: diff parser start
+2019-09-13 15:47:14,716:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 15:47:14,716:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 15:47:14,716:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 15:47:14,716:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 15:47:14,716:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 15:47:14,716:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 15:47:14,716:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 15:47:14,716:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 15:47:14,716:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 15:47:14,716:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 15:47:14,717:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 15:47:14,717:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 15:47:14,717:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 15:47:14,717:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 15:47:14,717:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 15:47:14,718:DEBUG: diff parser end
+2019-09-13 15:47:14,718:DEBUG: diff parser end
+2019-09-13 15:47:14,718:DEBUG: diff parser end
+2019-09-13 15:47:14,718:DEBUG: diff parser end
+2019-09-13 15:47:14,718:DEBUG: diff parser end
+2019-09-13 15:47:22,292:DEBUG: diff parser start
+2019-09-13 15:47:22,292:DEBUG: diff parser start
+2019-09-13 15:47:22,292:DEBUG: diff parser start
+2019-09-13 15:47:22,292:DEBUG: diff parser start
+2019-09-13 15:47:22,292:DEBUG: diff parser start
+2019-09-13 15:47:22,293:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 15:47:22,293:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 15:47:22,293:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 15:47:22,293:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 15:47:22,293:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 15:47:22,293:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 15:47:22,293:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 15:47:22,293:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 15:47:22,293:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 15:47:22,293:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 15:47:22,294:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 15:47:22,294:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 15:47:22,294:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 15:47:22,294:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 15:47:22,294:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 15:47:22,295:DEBUG: diff parser end
+2019-09-13 15:47:22,295:DEBUG: diff parser end
+2019-09-13 15:47:22,295:DEBUG: diff parser end
+2019-09-13 15:47:22,295:DEBUG: diff parser end
+2019-09-13 15:47:22,295:DEBUG: diff parser end
+2019-09-13 15:47:25,348:DEBUG: diff parser start
+2019-09-13 15:47:25,348:DEBUG: diff parser start
+2019-09-13 15:47:25,348:DEBUG: diff parser start
+2019-09-13 15:47:25,348:DEBUG: diff parser start
+2019-09-13 15:47:25,348:DEBUG: diff parser start
+2019-09-13 15:47:25,348:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 15:47:25,348:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 15:47:25,348:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 15:47:25,348:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 15:47:25,348:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 15:47:25,349:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 15:47:25,349:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 15:47:25,349:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 15:47:25,349:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 15:47:25,349:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 15:47:25,350:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 15:47:25,350:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 15:47:25,350:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 15:47:25,350:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 15:47:25,350:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 15:47:25,350:DEBUG: diff parser end
+2019-09-13 15:47:25,350:DEBUG: diff parser end
+2019-09-13 15:47:25,350:DEBUG: diff parser end
+2019-09-13 15:47:25,350:DEBUG: diff parser end
+2019-09-13 15:47:25,350:DEBUG: diff parser end
+2019-09-13 15:47:26,795:DEBUG: diff parser start
+2019-09-13 15:47:26,795:DEBUG: diff parser start
+2019-09-13 15:47:26,795:DEBUG: diff parser start
+2019-09-13 15:47:26,795:DEBUG: diff parser start
+2019-09-13 15:47:26,795:DEBUG: diff parser start
+2019-09-13 15:47:26,796:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 15:47:26,796:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 15:47:26,796:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 15:47:26,796:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 15:47:26,796:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 15:47:26,796:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 15:47:26,796:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 15:47:26,796:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 15:47:26,796:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 15:47:26,796:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 15:47:26,797:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 15:47:26,797:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 15:47:26,797:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 15:47:26,797:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 15:47:26,797:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 15:47:26,797:DEBUG: diff parser end
+2019-09-13 15:47:26,797:DEBUG: diff parser end
+2019-09-13 15:47:26,797:DEBUG: diff parser end
+2019-09-13 15:47:26,797:DEBUG: diff parser end
+2019-09-13 15:47:26,797:DEBUG: diff parser end
+2019-09-13 15:47:30,892:DEBUG: diff parser start
+2019-09-13 15:47:30,892:DEBUG: diff parser start
+2019-09-13 15:47:30,892:DEBUG: diff parser start
+2019-09-13 15:47:30,892:DEBUG: diff parser start
+2019-09-13 15:47:30,892:DEBUG: diff parser start
+2019-09-13 15:47:30,892:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 15:47:30,892:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 15:47:30,892:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 15:47:30,892:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 15:47:30,892:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 15:47:30,893:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 15:47:30,893:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 15:47:30,893:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 15:47:30,893:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 15:47:30,893:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 15:47:30,894:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 15:47:30,894:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 15:47:30,894:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 15:47:30,894:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 15:47:30,894:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 15:47:30,894:DEBUG: diff parser end
+2019-09-13 15:47:30,894:DEBUG: diff parser end
+2019-09-13 15:47:30,894:DEBUG: diff parser end
+2019-09-13 15:47:30,894:DEBUG: diff parser end
+2019-09-13 15:47:30,894:DEBUG: diff parser end
+2019-09-13 15:47:33,299:DEBUG: diff parser start
+2019-09-13 15:47:33,299:DEBUG: diff parser start
+2019-09-13 15:47:33,299:DEBUG: diff parser start
+2019-09-13 15:47:33,299:DEBUG: diff parser start
+2019-09-13 15:47:33,299:DEBUG: diff parser start
+2019-09-13 15:47:33,300:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 15:47:33,300:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 15:47:33,300:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 15:47:33,300:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 15:47:33,300:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 15:47:33,300:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 15:47:33,300:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 15:47:33,300:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 15:47:33,300:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 15:47:33,300:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 15:47:33,301:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 15:47:33,301:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 15:47:33,301:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 15:47:33,301:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 15:47:33,301:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 15:47:33,302:DEBUG: diff parser end
+2019-09-13 15:47:33,302:DEBUG: diff parser end
+2019-09-13 15:47:33,302:DEBUG: diff parser end
+2019-09-13 15:47:33,302:DEBUG: diff parser end
+2019-09-13 15:47:33,302:DEBUG: diff parser end
+2019-09-13 15:47:36,652:DEBUG: diff parser start
+2019-09-13 15:47:36,652:DEBUG: diff parser start
+2019-09-13 15:47:36,652:DEBUG: diff parser start
+2019-09-13 15:47:36,652:DEBUG: diff parser start
+2019-09-13 15:47:36,652:DEBUG: diff parser start
+2019-09-13 15:47:36,652:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 15:47:36,652:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 15:47:36,652:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 15:47:36,652:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 15:47:36,652:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 15:47:36,653:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 15:47:36,653:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 15:47:36,653:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 15:47:36,653:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 15:47:36,653:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 15:47:36,654:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 15:47:36,654:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 15:47:36,654:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 15:47:36,654:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 15:47:36,654:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 15:47:36,655:DEBUG: diff parser end
+2019-09-13 15:47:36,655:DEBUG: diff parser end
+2019-09-13 15:47:36,655:DEBUG: diff parser end
+2019-09-13 15:47:36,655:DEBUG: diff parser end
+2019-09-13 15:47:36,655:DEBUG: diff parser end
+2019-09-13 15:47:37,533:DEBUG: diff parser start
+2019-09-13 15:47:37,533:DEBUG: diff parser start
+2019-09-13 15:47:37,533:DEBUG: diff parser start
+2019-09-13 15:47:37,533:DEBUG: diff parser start
+2019-09-13 15:47:37,533:DEBUG: diff parser start
+2019-09-13 15:47:37,534:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 15:47:37,534:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 15:47:37,534:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 15:47:37,534:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 15:47:37,534:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 15:47:37,534:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 15:47:37,534:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 15:47:37,534:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 15:47:37,534:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 15:47:37,534:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 15:47:37,536:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 15:47:37,536:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 15:47:37,536:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 15:47:37,536:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 15:47:37,536:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 15:47:37,537:DEBUG: diff parser end
+2019-09-13 15:47:37,537:DEBUG: diff parser end
+2019-09-13 15:47:37,537:DEBUG: diff parser end
+2019-09-13 15:47:37,537:DEBUG: diff parser end
+2019-09-13 15:47:37,537:DEBUG: diff parser end
+2019-09-13 15:48:37,651:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff66a736f98>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff66a736f98>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 15:48:37,651:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff66a736f98>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff66a736f98>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 15:48:37,651:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff66a736f98>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff66a736f98>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 15:48:37,651:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff66a736f98>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff66a736f98>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 15:48:37,651:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff66a736f98>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff66a736f98>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 15:48:37,651:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff66a736f98>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff66a736f98>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 15:48:37,712:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7ff66d0300f0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7ff66d0300f0>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-13 15:48:37,712:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7ff66d0300f0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7ff66d0300f0>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-13 15:48:37,712:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7ff66d0300f0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7ff66d0300f0>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-13 15:48:37,712:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7ff66d0300f0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7ff66d0300f0>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-13 15:48:37,712:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7ff66d0300f0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7ff66d0300f0>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-13 15:48:37,712:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7ff66d0300f0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7ff66d0300f0>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-13 15:48:37,720:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff6be068c18>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff6be068c18>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 15:48:37,720:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff6be068c18>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff6be068c18>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 15:48:37,720:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff6be068c18>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff6be068c18>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 15:48:37,720:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff6be068c18>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff6be068c18>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 15:48:37,720:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff6be068c18>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff6be068c18>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 15:48:37,720:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff6be068c18>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7ff6be068c18>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 15:48:37,771:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7ff6be068c18>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7ff6be068c18>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-13 15:48:37,771:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7ff6be068c18>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7ff6be068c18>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-13 15:48:37,771:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7ff6be068c18>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7ff6be068c18>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-13 15:48:37,771:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7ff6be068c18>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7ff6be068c18>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-13 15:48:37,771:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7ff6be068c18>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7ff6be068c18>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-13 15:48:37,771:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7ff6be068c18>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7ff6be068c18>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-13 15:48:37,773:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:135: The name tf.get_collection is deprecated. Please use tf.compat.v1.get_collection instead.
+
+2019-09-13 15:48:37,773:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:135: The name tf.get_collection is deprecated. Please use tf.compat.v1.get_collection instead.
+
+2019-09-13 15:48:37,773:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:135: The name tf.get_collection is deprecated. Please use tf.compat.v1.get_collection instead.
+
+2019-09-13 15:48:37,773:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:135: The name tf.get_collection is deprecated. Please use tf.compat.v1.get_collection instead.
+
+2019-09-13 15:48:37,773:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:135: The name tf.get_collection is deprecated. Please use tf.compat.v1.get_collection instead.
+
+2019-09-13 15:48:37,773:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:135: The name tf.get_collection is deprecated. Please use tf.compat.v1.get_collection instead.
+
+2019-09-13 15:48:37,773:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:135: The name tf.GraphKeys is deprecated. Please use tf.compat.v1.GraphKeys instead.
+
+2019-09-13 15:48:37,773:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:135: The name tf.GraphKeys is deprecated. Please use tf.compat.v1.GraphKeys instead.
+
+2019-09-13 15:48:37,773:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:135: The name tf.GraphKeys is deprecated. Please use tf.compat.v1.GraphKeys instead.
+
+2019-09-13 15:48:37,773:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:135: The name tf.GraphKeys is deprecated. Please use tf.compat.v1.GraphKeys instead.
+
+2019-09-13 15:48:37,773:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:135: The name tf.GraphKeys is deprecated. Please use tf.compat.v1.GraphKeys instead.
+
+2019-09-13 15:48:37,773:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:135: The name tf.GraphKeys is deprecated. Please use tf.compat.v1.GraphKeys instead.
+
+2019-09-13 15:49:14,652:DEBUG: diff parser start
+2019-09-13 15:49:14,652:DEBUG: diff parser start
+2019-09-13 15:49:14,652:DEBUG: diff parser start
+2019-09-13 15:49:14,652:DEBUG: diff parser start
+2019-09-13 15:49:14,652:DEBUG: diff parser start
+2019-09-13 15:49:14,652:DEBUG: diff parser start
+2019-09-13 15:49:14,652:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 15:49:14,652:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 15:49:14,652:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 15:49:14,652:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 15:49:14,652:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 15:49:14,652:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 15:49:14,653:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 15:49:14,653:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 15:49:14,653:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 15:49:14,653:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 15:49:14,653:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 15:49:14,653:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 15:49:14,654:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 15:49:14,654:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 15:49:14,654:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 15:49:14,654:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 15:49:14,654:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 15:49:14,654:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 15:49:14,654:DEBUG: diff parser end
+2019-09-13 15:49:14,654:DEBUG: diff parser end
+2019-09-13 15:49:14,654:DEBUG: diff parser end
+2019-09-13 15:49:14,654:DEBUG: diff parser end
+2019-09-13 15:49:14,654:DEBUG: diff parser end
+2019-09-13 15:49:14,654:DEBUG: diff parser end
+2019-09-13 16:04:28,568:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:52: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-13 16:04:28,571:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:93: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-13 16:04:28,578:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f6ac0058ac8>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f6ac0058ac8>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 16:04:28,582:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:93: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-13 16:04:28,582:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-13 16:04:28,631:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f6c4003eba8>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f6c4003eba8>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-13 16:04:28,639:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f6c4003eba8>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f6c4003eba8>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 16:04:28,691:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f6c4003eba8>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f6c4003eba8>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-13 16:04:28,692:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:135: The name tf.get_collection is deprecated. Please use tf.compat.v1.get_collection instead.
+
+2019-09-13 16:04:28,692:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:135: The name tf.GraphKeys is deprecated. Please use tf.compat.v1.GraphKeys instead.
+
+2019-09-13 16:04:28,692:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:137: The name tf.assign is deprecated. Please use tf.compat.v1.assign instead.
+
+2019-09-13 16:04:41,196:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f6c484a6048>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f6c484a6048>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 16:04:41,196:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f6c484a6048>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f6c484a6048>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 16:04:46,605:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f6aa02cdfd0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f6aa02cdfd0>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 16:04:46,605:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f6aa02cdfd0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f6aa02cdfd0>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 16:04:46,605:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f6aa02cdfd0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f6aa02cdfd0>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 16:04:57,111:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:52: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-13 16:04:57,122:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:93: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-13 16:04:57,132:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f1ae2482d30>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f1ae2482d30>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 16:04:57,136:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:93: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-13 16:04:57,136:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-13 16:04:57,185:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f1ae2482d30>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f1ae2482d30>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-13 16:04:57,193:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f1ae2482d30>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f1ae2482d30>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 16:04:57,245:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f1ae2482d30>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f1ae2482d30>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-13 16:04:57,246:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:135: The name tf.get_collection is deprecated. Please use tf.compat.v1.get_collection instead.
+
+2019-09-13 16:04:57,246:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:135: The name tf.GraphKeys is deprecated. Please use tf.compat.v1.GraphKeys instead.
+
+2019-09-13 16:04:57,246:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:138: The name tf.assign is deprecated. Please use tf.compat.v1.assign instead.
+
+2019-09-13 16:05:23,251:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:52: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-13 16:05:23,263:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:93: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-13 16:05:23,273:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fb281196d30>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fb281196d30>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 16:05:23,277:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:93: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-13 16:05:23,277:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-13 16:05:23,327:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fb28156c0b8>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fb28156c0b8>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-13 16:05:23,335:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fb28156c0b8>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fb28156c0b8>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 16:05:23,389:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fb28156c0b8>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fb28156c0b8>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-13 16:05:23,390:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:135: The name tf.get_collection is deprecated. Please use tf.compat.v1.get_collection instead.
+
+2019-09-13 16:05:23,390:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:135: The name tf.GraphKeys is deprecated. Please use tf.compat.v1.GraphKeys instead.
+
+2019-09-13 16:05:23,390:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:142: The name tf.assign is deprecated. Please use tf.compat.v1.assign instead.
+
+2019-09-13 16:07:24,168:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:52: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-13 16:07:24,179:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:93: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-13 16:07:24,189:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fb9d4ab0668>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fb9d4ab0668>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 16:07:24,192:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:93: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-13 16:07:24,193:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-13 16:07:24,243:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fb9d4ab0668>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fb9d4ab0668>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-13 16:07:24,250:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fb9d59267f0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fb9d59267f0>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 16:07:24,303:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fb9d59267f0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fb9d59267f0>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-13 16:07:24,305:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:135: The name tf.get_collection is deprecated. Please use tf.compat.v1.get_collection instead.
+
+2019-09-13 16:07:24,305:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:135: The name tf.GraphKeys is deprecated. Please use tf.compat.v1.GraphKeys instead.
+
+2019-09-13 16:10:05,099:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fb9d485ee80>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fb9d485ee80>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 16:10:05,099:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fb9d485ee80>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fb9d485ee80>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 16:10:10,600:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:52: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-13 16:10:10,611:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:93: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-13 16:10:10,620:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fe04f105240>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fe04f105240>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 16:10:10,624:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:93: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-13 16:10:10,624:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-13 16:10:10,673:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fe04f105240>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fe04f105240>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-13 16:10:10,680:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fe04f105240>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fe04f105240>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 16:10:10,732:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fe04f105240>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fe04f105240>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-13 16:10:10,733:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:135: The name tf.get_collection is deprecated. Please use tf.compat.v1.get_collection instead.
+
+2019-09-13 16:10:10,733:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:135: The name tf.GraphKeys is deprecated. Please use tf.compat.v1.GraphKeys instead.
+
+2019-09-13 16:10:10,734:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:139: The name tf.assign is deprecated. Please use tf.compat.v1.assign instead.
+
+2019-09-13 16:10:10,735:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:100: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2019-09-13 16:10:10,900:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:132: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+2019-09-13 16:12:20,282:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fe0076d0dd8>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fe0076d0dd8>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 16:12:20,282:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fe0076d0dd8>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fe0076d0dd8>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 16:12:21,606:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fdfa03dfda0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fdfa03dfda0>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 16:12:21,606:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fdfa03dfda0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fdfa03dfda0>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 16:12:21,606:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fdfa03dfda0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fdfa03dfda0>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 16:12:22,261:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fe054cad5f8>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fe054cad5f8>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 16:12:22,261:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fe054cad5f8>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fe054cad5f8>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 16:12:22,261:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fe054cad5f8>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fe054cad5f8>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 16:12:22,261:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fe054cad5f8>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fe054cad5f8>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 16:18:18,367:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:52: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-13 16:18:18,378:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:93: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-13 16:18:18,388:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fed4103c710>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fed4103c710>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 16:18:18,391:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:93: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-13 16:18:18,392:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-13 16:18:18,441:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fed4103c710>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fed4103c710>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-13 16:18:18,448:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fed414adf98>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fed414adf98>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 16:18:18,500:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fed414adf98>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fed414adf98>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-13 16:18:18,501:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:135: The name tf.get_collection is deprecated. Please use tf.compat.v1.get_collection instead.
+
+2019-09-13 16:18:18,502:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:135: The name tf.GraphKeys is deprecated. Please use tf.compat.v1.GraphKeys instead.
+
+2019-09-13 16:18:18,502:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:137: The name tf.assign is deprecated. Please use tf.compat.v1.assign instead.
+
+2019-09-13 16:18:33,248:DEBUG: pickle loaded: /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/utils/test_env.py
+2019-09-13 16:18:37,702:DEBUG: diff parser start
+2019-09-13 16:18:37,703:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 16:18:37,703:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 16:18:37,704:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 16:18:37,704:DEBUG: diff parser end
+2019-09-13 16:18:40,831:DEBUG: diff parser start
+2019-09-13 16:18:40,831:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 16:18:40,831:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 16:18:40,832:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 16:18:40,833:DEBUG: diff parser end
+2019-09-13 16:18:44,225:DEBUG: diff parser start
+2019-09-13 16:18:44,225:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 16:18:44,225:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 16:18:44,226:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 16:18:44,226:DEBUG: diff parser end
+2019-09-13 16:18:48,680:DEBUG: diff parser start
+2019-09-13 16:18:48,680:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 16:18:48,680:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 16:18:48,681:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 16:18:48,681:DEBUG: diff parser end
+2019-09-13 16:19:19,140:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:52: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-13 16:19:19,151:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:93: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-13 16:19:19,160:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fa493f42d68>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fa493f42d68>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 16:19:19,164:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:93: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-13 16:19:19,165:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-13 16:19:19,216:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fa5005334e0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fa5005334e0>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-13 16:19:19,223:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fa52ed45f98>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fa52ed45f98>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 16:19:19,280:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fa52ed45f98>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fa52ed45f98>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-13 16:19:19,281:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:135: The name tf.get_collection is deprecated. Please use tf.compat.v1.get_collection instead.
+
+2019-09-13 16:19:19,281:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:135: The name tf.GraphKeys is deprecated. Please use tf.compat.v1.GraphKeys instead.
+
+2019-09-13 16:19:19,281:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:137: The name tf.assign is deprecated. Please use tf.compat.v1.assign instead.
+
+2019-09-13 16:19:23,572:DEBUG: pickle loaded: /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/utils/test_env.py
+2019-09-13 16:19:27,815:DEBUG: diff parser start
+2019-09-13 16:19:27,815:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 16:19:27,816:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 16:19:27,817:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 16:19:27,817:DEBUG: diff parser end
+2019-09-13 16:19:34,407:DEBUG: diff parser start
+2019-09-13 16:19:34,408:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 16:19:34,408:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 16:19:34,409:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 16:19:34,409:DEBUG: diff parser end
+2019-09-13 16:19:40,519:DEBUG: diff parser start
+2019-09-13 16:19:40,519:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 16:19:40,519:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 16:19:40,520:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 16:19:40,521:DEBUG: diff parser end
+2019-09-13 16:19:47,511:DEBUG: diff parser start
+2019-09-13 16:19:47,512:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 16:19:47,512:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 16:19:47,513:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 16:19:47,513:DEBUG: diff parser end
+2019-09-13 16:19:48,919:DEBUG: diff parser start
+2019-09-13 16:19:48,919:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 16:19:48,919:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 16:19:48,920:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 16:19:48,920:DEBUG: diff parser end
+2019-09-13 16:19:51,335:DEBUG: diff parser start
+2019-09-13 16:19:51,335:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 16:19:51,336:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 16:19:51,336:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 16:19:51,337:DEBUG: diff parser end
+2019-09-13 16:19:53,430:DEBUG: diff parser start
+2019-09-13 16:19:53,431:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 16:19:53,431:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 16:19:53,432:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 16:19:53,432:DEBUG: diff parser end
+2019-09-13 16:19:56,007:DEBUG: diff parser start
+2019-09-13 16:19:56,007:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 16:19:56,008:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 16:19:56,008:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 16:19:56,009:DEBUG: diff parser end
+2019-09-13 16:19:57,735:DEBUG: diff parser start
+2019-09-13 16:19:57,735:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 16:19:57,735:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 16:19:57,736:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 16:19:57,737:DEBUG: diff parser end
+2019-09-13 16:20:10,285:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fa493f5def0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fa493f5def0>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 16:20:10,285:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fa493f5def0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fa493f5def0>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 16:20:11,365:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fa52f5cc320>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fa52f5cc320>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 16:20:11,365:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fa52f5cc320>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fa52f5cc320>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 16:20:11,365:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fa52f5cc320>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fa52f5cc320>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 16:20:22,905:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:52: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-13 16:20:22,916:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:93: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-13 16:20:22,926:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f9d50461908>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f9d50461908>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 16:20:22,929:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:93: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-13 16:20:22,930:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-13 16:20:22,979:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f9d50461908>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f9d50461908>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-13 16:20:22,987:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f9cb6f21e10>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f9cb6f21e10>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 16:20:23,039:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f9cb6f21e10>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f9cb6f21e10>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-13 16:20:23,040:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:135: The name tf.get_collection is deprecated. Please use tf.compat.v1.get_collection instead.
+
+2019-09-13 16:20:23,040:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:135: The name tf.GraphKeys is deprecated. Please use tf.compat.v1.GraphKeys instead.
+
+2019-09-13 16:20:23,040:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:137: The name tf.assign is deprecated. Please use tf.compat.v1.assign instead.
+
+2019-09-13 16:21:12,610:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f9d50b4a780>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f9d50b4a780>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 16:21:12,610:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f9d50b4a780>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f9d50b4a780>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 16:21:16,733:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:52: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-13 16:21:16,744:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:93: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-13 16:21:16,753:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fe49292c5c0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fe49292c5c0>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 16:21:16,757:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:93: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-13 16:21:16,758:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-13 16:21:16,808:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fe49292c5c0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fe49292c5c0>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-13 16:21:16,815:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fe49292c5c0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fe49292c5c0>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 16:21:16,868:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fe49292c5c0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fe49292c5c0>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-13 16:21:16,869:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:135: The name tf.get_collection is deprecated. Please use tf.compat.v1.get_collection instead.
+
+2019-09-13 16:21:16,869:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:135: The name tf.GraphKeys is deprecated. Please use tf.compat.v1.GraphKeys instead.
+
+2019-09-13 16:21:16,869:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:137: The name tf.assign is deprecated. Please use tf.compat.v1.assign instead.
+
+2019-09-13 16:22:19,603:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fe4a8fe74e0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fe4a8fe74e0>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 16:22:19,603:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fe4a8fe74e0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7fe4a8fe74e0>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 16:22:37,552:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:52: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-13 16:22:37,563:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:93: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-13 16:22:37,571:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f2bb180f898>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f2bb180f898>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 16:22:37,576:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:93: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-13 16:22:37,576:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-13 16:22:37,628:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f2bb180f898>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f2bb180f898>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-13 16:22:37,636:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f2bb48682e8>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f2bb48682e8>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 16:22:37,690:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f2bb48682e8>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f2bb48682e8>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-13 16:22:37,691:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:135: The name tf.get_collection is deprecated. Please use tf.compat.v1.get_collection instead.
+
+2019-09-13 16:22:37,691:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:135: The name tf.GraphKeys is deprecated. Please use tf.compat.v1.GraphKeys instead.
+
+2019-09-13 16:22:37,691:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:137: The name tf.assign is deprecated. Please use tf.compat.v1.assign instead.
+
+2019-09-13 16:22:51,707:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:52: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-13 16:22:51,736:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:93: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-13 16:22:51,746:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f1478a26c50>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f1478a26c50>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 16:22:51,754:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:93: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-13 16:22:51,756:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-13 16:22:51,815:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f1478a26c50>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f1478a26c50>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-13 16:22:51,822:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f1478a26c50>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f1478a26c50>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 16:22:51,878:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f1478a26c50>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f1478a26c50>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-13 16:22:51,879:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:135: The name tf.get_collection is deprecated. Please use tf.compat.v1.get_collection instead.
+
+2019-09-13 16:22:51,879:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:135: The name tf.GraphKeys is deprecated. Please use tf.compat.v1.GraphKeys instead.
+
+2019-09-13 16:22:51,879:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:137: The name tf.assign is deprecated. Please use tf.compat.v1.assign instead.
+
+2019-09-13 16:23:02,271:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:52: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-13 16:23:02,282:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:93: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-13 16:23:02,289:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f4056450400>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f4056450400>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 16:23:02,293:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:93: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-13 16:23:02,294:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-13 16:23:02,343:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f4054c56c50>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f4054c56c50>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-13 16:23:02,351:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f4054c56c50>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f4054c56c50>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 16:23:02,403:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f4054c56c50>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f4054c56c50>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-13 16:23:02,404:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:135: The name tf.get_collection is deprecated. Please use tf.compat.v1.get_collection instead.
+
+2019-09-13 16:23:02,404:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:135: The name tf.GraphKeys is deprecated. Please use tf.compat.v1.GraphKeys instead.
+
+2019-09-13 16:23:02,404:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:137: The name tf.assign is deprecated. Please use tf.compat.v1.assign instead.
+
+2019-09-13 16:24:28,592:DEBUG: diff parser start
+2019-09-13 16:24:28,593:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 16:24:28,593:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 16:24:28,594:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 16:24:28,594:DEBUG: diff parser end
+2019-09-13 16:24:30,607:DEBUG: diff parser start
+2019-09-13 16:24:30,607:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 16:24:30,608:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 16:24:30,608:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 16:24:30,609:DEBUG: diff parser end
+2019-09-13 16:24:59,967:DEBUG: diff parser start
+2019-09-13 16:24:59,968:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 16:24:59,968:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 16:24:59,969:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 16:24:59,969:DEBUG: diff parser end
+2019-09-13 16:25:07,256:DEBUG: diff parser start
+2019-09-13 16:25:07,257:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 16:25:07,257:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 16:25:07,258:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 16:25:07,258:DEBUG: diff parser end
+2019-09-13 16:32:40,460:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:52: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-13 16:32:40,489:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:93: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-13 16:32:40,506:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f51d9f00cc0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f51d9f00cc0>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 16:32:40,510:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:93: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-13 16:32:40,511:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-13 16:32:40,561:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f5187da96a0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f5187da96a0>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-13 16:32:40,568:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f5187da96a0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f5187da96a0>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 16:32:40,621:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f5187da96a0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f5187da96a0>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-13 16:32:40,622:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:135: The name tf.get_collection is deprecated. Please use tf.compat.v1.get_collection instead.
+
+2019-09-13 16:32:55,052:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:52: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-13 16:32:55,063:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:93: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-13 16:32:55,072:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f6b67129518>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f6b67129518>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 16:32:55,076:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:93: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-13 16:32:55,076:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-13 16:32:55,125:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f6b67129518>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f6b67129518>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-13 16:32:55,132:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f6b67129518>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f6b67129518>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 16:32:55,184:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f6b67129518>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f6b67129518>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-13 16:32:55,186:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:135: The name tf.get_collection is deprecated. Please use tf.compat.v1.get_collection instead.
+
+2019-09-13 16:33:52,191:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:52: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-13 16:33:52,202:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:93: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-13 16:33:59,896:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/__init__.py
+2019-09-13 16:34:02,403:DEBUG: diff parser start
+2019-09-13 16:34:02,403:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 16:34:02,403:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 16:34:02,403:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 16:34:02,403:DEBUG: diff parser end
+2019-09-13 16:34:41,775:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:52: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-13 16:34:41,786:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:93: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-13 16:34:41,795:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f978e926e10>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f978e926e10>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 16:34:41,799:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:93: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-13 16:34:41,799:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-13 16:34:41,849:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f978e926e10>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f978e926e10>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-13 16:34:41,856:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f979cf71d30>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f979cf71d30>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-13 16:34:41,910:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f979cf71d30>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f979cf71d30>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-13 16:36:10,761:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/__init__.py
+2019-09-13 16:36:14,721:DEBUG: diff parser start
+2019-09-13 16:36:14,721:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 16:36:14,721:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 16:36:14,722:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 16:36:14,722:DEBUG: diff parser end
+2019-09-13 16:36:22,144:DEBUG: diff parser start
+2019-09-13 16:36:22,145:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 16:36:22,145:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 16:36:22,146:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 16:36:22,146:DEBUG: diff parser end
+2019-09-13 16:36:26,704:DEBUG: diff parser start
+2019-09-13 16:36:26,705:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 16:36:26,705:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 16:36:26,706:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 16:36:26,706:DEBUG: diff parser end
+2019-09-13 16:36:29,259:DEBUG: diff parser start
+2019-09-13 16:36:29,259:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 16:36:29,259:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 16:36:29,259:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 16:36:29,260:DEBUG: diff parser end
+2019-09-13 16:36:31,152:DEBUG: diff parser start
+2019-09-13 16:36:31,153:DEBUG: line_lengths old: 1; new: 1
+2019-09-13 16:36:31,153:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-13 16:36:31,154:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-13 16:36:31,154:DEBUG: diff parser end
+2019-09-13 16:37:58,886:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:52: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-13 16:37:58,897:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:93: The name tf.layers.Flatten is deprecated. Please use tf.compat.v1.layers.Flatten instead.
+
+2019-09-13 16:39:21,744:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:93: The name tf.layers.Flatten is deprecated. Please use tf.compat.v1.layers.Flatten instead.
+

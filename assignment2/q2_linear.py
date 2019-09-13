@@ -1,5 +1,5 @@
 import tensorflow as tf
-import tensorflow.contrib.layers as layers
+# import tensorflow.contrib.layers as layers # Deprecated 2.0.0 tf. Using new TF instead.
 
 from utils.general import get_logger
 from utils.test_env import EnvTest
@@ -49,9 +49,12 @@ class Linear(DQN):
         """
         ##############################################################
         ################YOUR CODE HERE (6-15 lines) ##################
-
-        pass
-
+        self.s = tf.compat.v1.placeholder(tf.uint8, shape=(None, state_shape[0], state_shape[1], state_shape[2]*self.config.state_history), name="states")
+        self.a = tf.compat.v1.placeholder(tf.int32, shape=(None,), name="actions")
+        self.r = tf.compat.v1.placeholder(tf.float32, shape=(None, ), name="rewards")
+        self.sp = tf.compat.v1.placeholder(tf.uint8, shape=(None, state_shape[0], state_shape[1], state_shape[2]*self.config.state_history), name="next_states")
+        self.done_mask = tf.compat.v1.placeholder(tf.bool, shape=(None, ), name="done")
+        self.lr = tf.compat.v1.placeholder(tf.float32, shape=None, name="learning_rate")
         ##############################################################
         ######################## END YOUR CODE #######################
 
@@ -87,9 +90,7 @@ class Linear(DQN):
         """
         ##############################################################
         ################ YOUR CODE HERE - 2-3 lines ################## 
-        
-        pass
-
+        out = tf.layers.dense(  tf.compat.v1.layers.Flatten(state, name=scope)  , num_actions, name=scope)
         ##############################################################
         ######################## END YOUR CODE #######################
 
@@ -131,9 +132,11 @@ class Linear(DQN):
         """
         ##############################################################
         ################### YOUR CODE HERE - 5-10 lines #############
-        
-        pass
-
+        Q = tf.compat.v1.get_collection(tf.compat.v1.GraphKeys.GLOBAL_VARIABLES, scope=q_scope) # GLOBAL_VARIABLES or TRAINABLE_VARIABLES
+        target_Q = tf.compat.v1.get_collection(tf.compat.v1.GraphKeys.GLOBAL_VARIABLES, scope=target_q_scope)
+        self.update_target_op = tf.group(*[tf.compat.v1.assign(v1, v2) for v1,v2 in zip(target_Q,Q)]) # target_Q and Q must be of same size
+        # https://www.programcreek.com/python/example/90419/tensorflow.assign
+        # https://www.programcreek.com/python/example/90419/tensorflow.group
         ##############################################################
         ######################## END YOUR CODE #######################
 
@@ -170,9 +173,8 @@ class Linear(DQN):
         """
         ##############################################################
         ##################### YOUR CODE HERE - 4-5 lines #############
-
-        pass
-
+        Q_samp = self.r if self.done_mask else self.r + self.config.gamma * tf.reduce_max(target_q)
+        self.loss = tf.reduce_mean(tf.squared_difference(tf.one_hot(q),tf.one_hot(Q_samp)))
         ##############################################################
         ######################## END YOUR CODE #######################
 
