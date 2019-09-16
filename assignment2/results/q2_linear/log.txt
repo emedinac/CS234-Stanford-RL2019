@@ -1329,3 +1329,743 @@ Call initializer instance with the dtype argument instead of passing it to the c
 
 2019-09-13 16:39:21,744:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:93: The name tf.layers.Flatten is deprecated. Please use tf.compat.v1.layers.Flatten instead.
 
+2019-09-16 06:35:23,996:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:93: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+2019-09-16 06:40:58,810:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:93: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+2019-09-16 06:47:23,586:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-16 06:47:23,586:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-16 06:47:23,586:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-16 06:47:23,586:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-16 06:47:23,586:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-16 06:47:23,586:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-16 06:47:23,749:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:95: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-16 06:47:23,749:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:95: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-16 06:47:23,749:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:95: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-16 06:47:23,749:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:95: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-16 06:47:23,749:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:95: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-16 06:47:23,749:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:95: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-16 06:47:23,750:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-16 06:47:23,750:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-16 06:47:23,750:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-16 06:47:23,750:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-16 06:47:23,750:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-16 06:47:23,750:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-16 06:48:00,686:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-16 06:48:00,833:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:95: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-16 06:48:00,834:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-16 06:48:43,373:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-16 06:48:43,518:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:95: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-16 06:48:43,519:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-16 06:49:41,130:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-16 06:49:41,130:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-16 06:49:41,271:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:95: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-16 06:49:41,271:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:95: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-16 06:49:41,272:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-16 06:49:41,272:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-16 06:50:20,301:ERROR: Internal Python error in the inspect module.
+Below is the traceback from this internal error.
+
+2019-09-16 06:50:20,301:ERROR: Internal Python error in the inspect module.
+Below is the traceback from this internal error.
+
+2019-09-16 06:50:20,306:INFO: 
+Unfortunately, your original traceback can not be constructed.
+
+2019-09-16 06:50:20,306:INFO: 
+Unfortunately, your original traceback can not be constructed.
+
+2019-09-16 06:56:11,439:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: The name tf.layers.Flatten is deprecated. Please use tf.compat.v1.layers.Flatten instead.
+
+2019-09-16 06:57:18,631:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: The name tf.layers.Flatten is deprecated. Please use tf.compat.v1.layers.Flatten instead.
+
+2019-09-16 06:57:18,631:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: The name tf.layers.Flatten is deprecated. Please use tf.compat.v1.layers.Flatten instead.
+
+2019-09-16 06:57:44,266:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-16 06:57:44,266:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-16 06:57:44,266:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-16 06:57:44,414:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:95: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-16 06:57:44,414:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:95: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-16 06:57:44,414:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:95: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-16 06:57:44,415:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-16 06:57:44,415:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-16 06:57:44,415:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-16 07:01:05,271:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-16 07:01:05,418:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:95: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-16 07:01:05,419:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-16 07:02:48,225:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-16 07:02:48,369:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:95: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-16 07:02:48,370:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-16 07:03:40,572:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-16 07:03:40,716:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:95: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-16 07:03:40,717:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-16 07:08:35,565:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-16 07:08:35,708:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:95: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-16 07:08:35,709:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-16 07:09:43,059:ERROR: Internal Python error in the inspect module.
+Below is the traceback from this internal error.
+
+2019-09-16 07:09:43,060:INFO: 
+Unfortunately, your original traceback can not be constructed.
+
+2019-09-16 07:11:00,067:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-16 07:11:00,210:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:95: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-16 07:11:00,211:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-16 07:14:09,132:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-16 07:14:09,276:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:95: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-16 07:14:09,277:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-16 07:14:57,891:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-16 07:14:58,031:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:95: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-16 07:14:58,032:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-16 07:15:46,857:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-16 07:15:46,998:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:95: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-16 07:15:46,999:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-16 07:15:47,191:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:183: The name tf.squared_difference is deprecated. Please use tf.math.squared_difference instead.
+
+2019-09-16 07:17:05,435:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-16 07:17:05,578:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:95: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-16 07:17:05,579:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-16 07:18:34,267:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-16 07:18:34,411:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:95: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-16 07:18:34,412:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-16 07:19:10,820:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-16 07:19:10,964:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:95: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-16 07:19:10,965:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-16 07:19:37,535:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-16 07:19:37,678:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:95: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-16 07:19:37,679:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-16 07:21:58,303:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-16 07:21:58,450:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:95: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-16 07:21:58,451:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-16 07:21:58,657:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:100: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2019-09-16 07:21:59,086:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:121: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-16 07:21:59,089:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:132: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+2019-09-16 07:23:01,024:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-16 07:23:01,168:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:95: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-16 07:23:01,169:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-16 07:23:01,367:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:100: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2019-09-16 07:23:01,460:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:121: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-16 07:23:01,463:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:132: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+2019-09-16 07:23:35,836:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-16 07:23:35,984:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:95: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-16 07:23:35,985:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-16 07:23:36,181:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:100: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2019-09-16 07:23:36,303:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:121: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-16 07:23:36,306:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:132: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+2019-09-16 07:24:38,106:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-16 07:24:38,248:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:95: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-16 07:24:38,249:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-16 07:24:38,450:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:100: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2019-09-16 07:24:38,545:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:121: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-16 07:24:38,548:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:132: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+2019-09-16 07:42:52,890:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-16 07:42:53,031:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:95: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-16 07:42:53,032:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-16 07:43:55,476:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-16 07:43:55,617:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:95: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-16 07:43:55,618:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-16 07:43:55,815:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:100: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2019-09-16 07:43:55,913:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:121: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-16 07:43:55,916:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:132: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+2019-09-16 08:15:22,696:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-16 08:15:22,846:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:95: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-16 08:15:22,847:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-16 08:18:05,499:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-16 08:18:05,643:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:95: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-16 08:18:05,644:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-16 08:18:28,279:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-16 08:18:28,429:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:95: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-16 08:18:28,430:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-16 08:23:13,964:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/clip_ops.py:157: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2019-09-16 08:27:03,723:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-16 08:27:03,872:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:95: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-16 08:27:03,873:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-16 08:27:04,074:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:221: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+2019-09-16 08:27:04,143:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/clip_ops.py:157: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2019-09-16 08:28:25,409:ERROR: Internal Python error in the inspect module.
+Below is the traceback from this internal error.
+
+2019-09-16 08:28:25,410:INFO: 
+Unfortunately, your original traceback can not be constructed.
+
+2019-09-16 08:31:28,654:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-16 08:31:28,799:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:95: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-16 08:31:28,800:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-16 08:31:29,005:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:221: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+2019-09-16 08:31:29,070:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/clip_ops.py:157: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2019-09-16 08:48:26,925:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-16 08:48:27,070:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:95: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-16 08:48:27,071:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-16 08:48:27,269:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:221: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+2019-09-16 08:48:27,334:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/clip_ops.py:157: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2019-09-16 08:57:30,110:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-16 08:57:30,272:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:95: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-16 08:57:30,273:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-16 08:57:30,490:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:221: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+2019-09-16 08:57:30,490:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:222: The name tf.get_collection is deprecated. Please use tf.compat.v1.get_collection instead.
+
+2019-09-16 08:57:30,491:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:222: The name tf.GraphKeys is deprecated. Please use tf.compat.v1.GraphKeys instead.
+
+2019-09-16 08:57:30,563:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/clip_ops.py:157: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2019-09-16 08:58:16,653:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-16 08:58:16,802:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:95: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-16 08:58:16,803:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-16 08:58:17,002:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:219: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+2019-09-16 08:58:17,002:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:220: The name tf.get_collection is deprecated. Please use tf.compat.v1.get_collection instead.
+
+2019-09-16 08:58:17,003:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:220: The name tf.GraphKeys is deprecated. Please use tf.compat.v1.GraphKeys instead.
+
+2019-09-16 09:01:31,484:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-16 09:01:31,636:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:95: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-16 09:01:31,637:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-16 09:01:31,845:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:219: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+2019-09-16 09:01:31,845:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:220: The name tf.get_collection is deprecated. Please use tf.compat.v1.get_collection instead.
+
+2019-09-16 09:01:31,845:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:220: The name tf.GraphKeys is deprecated. Please use tf.compat.v1.GraphKeys instead.
+
+2019-09-16 09:01:41,727:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/clip_ops.py:157: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2019-09-16 09:02:47,404:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-16 09:02:47,548:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:95: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-16 09:02:47,549:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-16 09:02:47,751:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:219: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+2019-09-16 09:02:47,751:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:220: The name tf.get_collection is deprecated. Please use tf.compat.v1.get_collection instead.
+
+2019-09-16 09:02:47,751:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:220: The name tf.GraphKeys is deprecated. Please use tf.compat.v1.GraphKeys instead.
+
+2019-09-16 09:02:47,822:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/clip_ops.py:157: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2019-09-16 09:02:47,882:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:226: The name tf.global_norm is deprecated. Please use tf.linalg.global_norm instead.
+
+2019-09-16 09:02:47,888:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:100: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2019-09-16 09:02:47,899:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:121: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-16 09:02:47,902:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:132: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+2019-09-16 09:02:47,909:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:147: The name tf.summary.merge_all is deprecated. Please use tf.compat.v1.summary.merge_all instead.
+
+2019-09-16 09:02:47,910:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:148: The name tf.summary.FileWriter is deprecated. Please use tf.compat.v1.summary.FileWriter instead.
+
+2019-09-16 09:02:48,142:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:113: The name tf.train.Saver is deprecated. Please use tf.compat.v1.train.Saver instead.
+
+2019-09-16 09:02:48,155:INFO: Evaluating...
+2019-09-16 09:02:48,206:INFO: Average reward: 0.50 +/- 0.00
+2019-09-16 09:02:48,865:INFO: Evaluating...
+2019-09-16 09:02:48,885:INFO: Average reward: 1.50 +/- 0.00
+2019-09-16 09:02:49,497:INFO: Evaluating...
+2019-09-16 09:02:49,518:INFO: Average reward: 3.80 +/- 0.00
+2019-09-16 09:02:50,132:INFO: Evaluating...
+2019-09-16 09:02:50,154:INFO: Average reward: 4.00 +/- 0.00
+2019-09-16 09:02:50,782:INFO: Evaluating...
+2019-09-16 09:02:50,801:INFO: Average reward: 4.00 +/- 0.00
+2019-09-16 09:02:51,478:INFO: Evaluating...
+2019-09-16 09:02:51,499:INFO: Average reward: 4.00 +/- 0.00
+2019-09-16 09:02:52,124:INFO: Evaluating...
+2019-09-16 09:02:52,147:INFO: Average reward: 4.00 +/- 0.00
+2019-09-16 09:02:52,780:INFO: Evaluating...
+2019-09-16 09:02:52,801:INFO: Average reward: 4.00 +/- 0.00
+2019-09-16 09:02:53,423:INFO: Evaluating...
+2019-09-16 09:02:53,445:INFO: Average reward: 4.00 +/- 0.00
+2019-09-16 09:02:54,077:INFO: Evaluating...
+2019-09-16 09:02:54,098:INFO: Average reward: 4.00 +/- 0.00
+2019-09-16 09:03:09,249:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-16 09:03:09,394:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:95: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-16 09:03:09,395:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-16 09:03:09,593:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:219: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+2019-09-16 09:03:09,593:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:220: The name tf.get_collection is deprecated. Please use tf.compat.v1.get_collection instead.
+
+2019-09-16 09:03:09,593:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:220: The name tf.GraphKeys is deprecated. Please use tf.compat.v1.GraphKeys instead.
+
+2019-09-16 09:03:09,658:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/clip_ops.py:157: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2019-09-16 09:03:09,715:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:226: The name tf.global_norm is deprecated. Please use tf.linalg.global_norm instead.
+
+2019-09-16 09:03:09,722:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:100: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2019-09-16 09:03:09,732:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:121: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-16 09:03:09,735:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:132: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+2019-09-16 09:03:09,742:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:147: The name tf.summary.merge_all is deprecated. Please use tf.compat.v1.summary.merge_all instead.
+
+2019-09-16 09:03:09,743:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:148: The name tf.summary.FileWriter is deprecated. Please use tf.compat.v1.summary.FileWriter instead.
+
+2019-09-16 09:03:09,806:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:113: The name tf.train.Saver is deprecated. Please use tf.compat.v1.train.Saver instead.
+
+2019-09-16 09:03:09,820:INFO: Evaluating...
+2019-09-16 09:03:09,860:INFO: Average reward: 0.00 +/- 0.00
+2019-09-16 09:03:10,475:INFO: Evaluating...
+2019-09-16 09:03:10,496:INFO: Average reward: 3.90 +/- 0.00
+2019-09-16 09:03:11,104:INFO: Evaluating...
+2019-09-16 09:03:11,124:INFO: Average reward: 1.40 +/- 0.00
+2019-09-16 09:03:11,730:INFO: Evaluating...
+2019-09-16 09:03:11,750:INFO: Average reward: 4.00 +/- 0.00
+2019-09-16 09:03:12,356:INFO: Evaluating...
+2019-09-16 09:03:12,378:INFO: Average reward: 4.00 +/- 0.00
+2019-09-16 09:03:13,015:INFO: Evaluating...
+2019-09-16 09:03:13,035:INFO: Average reward: 4.00 +/- 0.00
+2019-09-16 09:03:13,635:INFO: Evaluating...
+2019-09-16 09:03:13,656:INFO: Average reward: 4.00 +/- 0.00
+2019-09-16 09:03:14,266:INFO: Evaluating...
+2019-09-16 09:03:14,316:INFO: Average reward: 4.00 +/- 0.00
+2019-09-16 09:03:14,918:INFO: Evaluating...
+2019-09-16 09:03:14,942:INFO: Average reward: 4.00 +/- 0.00
+2019-09-16 09:03:15,543:INFO: Evaluating...
+2019-09-16 09:03:15,563:INFO: Average reward: 4.00 +/- 0.00
+2019-09-16 09:03:16,158:INFO: - Training done.
+2019-09-16 09:03:16,176:INFO: Evaluating...
+2019-09-16 09:03:16,199:INFO: Average reward: 4.10 +/- 0.00
+2019-09-16 09:03:16,222:DEBUG: findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/usr/local/lib/python3.6/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+2019-09-16 09:16:40,959:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-16 09:16:41,105:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:95: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-16 09:16:41,106:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-16 09:16:41,310:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:219: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+2019-09-16 09:16:41,310:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:220: The name tf.get_collection is deprecated. Please use tf.compat.v1.get_collection instead.
+
+2019-09-16 09:16:41,310:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:220: The name tf.GraphKeys is deprecated. Please use tf.compat.v1.GraphKeys instead.
+
+2019-09-16 09:16:41,375:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/clip_ops.py:157: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2019-09-16 09:16:41,432:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:224: The name tf.global_norm is deprecated. Please use tf.linalg.global_norm instead.
+
+2019-09-16 09:17:34,133:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-16 09:17:34,279:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:95: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-16 09:17:34,280:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-16 09:17:34,477:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:219: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+2019-09-16 09:17:34,477:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:220: The name tf.get_collection is deprecated. Please use tf.compat.v1.get_collection instead.
+
+2019-09-16 09:17:34,477:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:220: The name tf.GraphKeys is deprecated. Please use tf.compat.v1.GraphKeys instead.
+
+2019-09-16 09:17:34,541:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/clip_ops.py:157: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2019-09-16 09:18:14,262:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-16 09:18:14,409:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:95: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-16 09:18:14,410:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-16 09:18:14,610:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:220: The name tf.GraphKeys is deprecated. Please use tf.compat.v1.GraphKeys instead.
+
+2019-09-16 09:18:14,676:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/clip_ops.py:157: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2019-09-16 09:19:04,840:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-16 09:19:04,987:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:95: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-16 09:19:04,988:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-16 09:19:05,256:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/clip_ops.py:157: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2019-09-16 09:24:30,569:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-16 09:24:30,713:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:95: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-16 09:24:30,714:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-16 09:24:30,975:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/clip_ops.py:157: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2019-09-16 09:24:31,039:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:100: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2019-09-16 09:24:31,049:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:121: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-16 09:24:31,053:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:132: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+2019-09-16 09:24:31,060:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:147: The name tf.summary.merge_all is deprecated. Please use tf.compat.v1.summary.merge_all instead.
+
+2019-09-16 09:24:31,062:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:148: The name tf.summary.FileWriter is deprecated. Please use tf.compat.v1.summary.FileWriter instead.
+
+2019-09-16 09:24:31,090:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:106: The name tf.global_variables_initializer is deprecated. Please use tf.compat.v1.global_variables_initializer instead.
+
+2019-09-16 09:24:31,123:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:113: The name tf.train.Saver is deprecated. Please use tf.compat.v1.train.Saver instead.
+
+2019-09-16 09:24:31,137:INFO: Evaluating...
+2019-09-16 09:24:31,179:INFO: Average reward: -0.90 +/- 0.00
+2019-09-16 09:24:31,788:INFO: Evaluating...
+2019-09-16 09:24:31,809:INFO: Average reward: 1.50 +/- 0.00
+2019-09-16 09:24:32,422:INFO: Evaluating...
+2019-09-16 09:24:32,444:INFO: Average reward: 4.00 +/- 0.00
+2019-09-16 09:24:33,052:INFO: Evaluating...
+2019-09-16 09:24:33,072:INFO: Average reward: 4.00 +/- 0.00
+2019-09-16 09:24:33,681:INFO: Evaluating...
+2019-09-16 09:24:33,703:INFO: Average reward: 4.00 +/- 0.00
+2019-09-16 09:24:34,342:INFO: Evaluating...
+2019-09-16 09:24:34,363:INFO: Average reward: 4.00 +/- 0.00
+2019-09-16 09:24:34,967:INFO: Evaluating...
+2019-09-16 09:24:34,986:INFO: Average reward: 4.00 +/- 0.00
+2019-09-16 09:24:35,595:INFO: Evaluating...
+2019-09-16 09:24:35,613:INFO: Average reward: 4.00 +/- 0.00
+2019-09-16 09:24:36,224:INFO: Evaluating...
+2019-09-16 09:24:36,243:INFO: Average reward: 4.00 +/- 0.00
+2019-09-16 09:24:36,853:INFO: Evaluating...
+2019-09-16 09:24:36,872:INFO: Average reward: 2.00 +/- 0.00
+2019-09-16 09:24:37,476:INFO: - Training done.
+2019-09-16 09:24:37,496:INFO: Evaluating...
+2019-09-16 09:24:37,518:INFO: Average reward: 4.10 +/- 0.00
+2019-09-16 09:24:37,538:DEBUG: findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/usr/local/lib/python3.6/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+2019-09-16 09:25:06,439:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:94: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-16 09:25:06,582:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q2_linear.py:95: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-16 09:25:06,583:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-16 09:25:06,850:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/clip_ops.py:157: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2019-09-16 09:25:06,914:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:100: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2019-09-16 09:25:06,924:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:121: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-16 09:25:06,928:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:132: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+2019-09-16 09:25:06,935:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:147: The name tf.summary.merge_all is deprecated. Please use tf.compat.v1.summary.merge_all instead.
+
+2019-09-16 09:25:06,936:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:148: The name tf.summary.FileWriter is deprecated. Please use tf.compat.v1.summary.FileWriter instead.
+
+2019-09-16 09:25:06,965:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:106: The name tf.global_variables_initializer is deprecated. Please use tf.compat.v1.global_variables_initializer instead.
+
+2019-09-16 09:25:06,998:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:113: The name tf.train.Saver is deprecated. Please use tf.compat.v1.train.Saver instead.
+
+2019-09-16 09:25:07,011:INFO: Evaluating...
+2019-09-16 09:25:07,051:INFO: Average reward: -1.00 +/- 0.00
+2019-09-16 09:25:07,672:INFO: Evaluating...
+2019-09-16 09:25:07,691:INFO: Average reward: 1.50 +/- 0.00
+2019-09-16 09:25:08,302:INFO: Evaluating...
+2019-09-16 09:25:08,323:INFO: Average reward: 3.80 +/- 0.00
+2019-09-16 09:25:08,929:INFO: Evaluating...
+2019-09-16 09:25:08,950:INFO: Average reward: 4.00 +/- 0.00
+2019-09-16 09:25:09,557:INFO: Evaluating...
+2019-09-16 09:25:09,577:INFO: Average reward: 4.00 +/- 0.00
+2019-09-16 09:25:10,224:INFO: Evaluating...
+2019-09-16 09:25:10,246:INFO: Average reward: 4.00 +/- 0.00
+2019-09-16 09:25:10,856:INFO: Evaluating...
+2019-09-16 09:25:10,874:INFO: Average reward: 4.00 +/- 0.00
+2019-09-16 09:25:11,477:INFO: Evaluating...
+2019-09-16 09:25:11,497:INFO: Average reward: 4.00 +/- 0.00
+2019-09-16 09:25:12,104:INFO: Evaluating...
+2019-09-16 09:25:12,125:INFO: Average reward: 4.00 +/- 0.00
+2019-09-16 09:25:12,738:INFO: Evaluating...
+2019-09-16 09:25:12,759:INFO: Average reward: 4.00 +/- 0.00
+2019-09-16 09:25:13,364:INFO: - Training done.
+2019-09-16 09:25:13,384:INFO: Evaluating...
+2019-09-16 09:25:13,407:INFO: Average reward: 4.10 +/- 0.00
+2019-09-16 09:25:13,427:DEBUG: findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/usr/local/lib/python3.6/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000

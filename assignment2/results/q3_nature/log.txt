@@ -1,0 +1,102 @@
+2019-09-16 09:40:37,261:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q3_nature.py:58: conv2d (from tensorflow.python.layers.convolutional) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.keras.layers.Conv2D` instead.
+2019-09-16 09:40:37,264:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-16 09:40:37,426:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q3_nature.py:61: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-16 09:40:37,564:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q3_nature.py:61: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-16 09:40:37,935:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/clip_ops.py:157: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2019-09-16 09:40:38,282:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:100: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2019-09-16 09:40:38,292:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:121: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-16 09:40:38,296:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:132: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+2019-09-16 09:40:38,303:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:147: The name tf.summary.merge_all is deprecated. Please use tf.compat.v1.summary.merge_all instead.
+
+2019-09-16 09:40:38,304:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:148: The name tf.summary.FileWriter is deprecated. Please use tf.compat.v1.summary.FileWriter instead.
+
+2019-09-16 09:40:38,390:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:106: The name tf.global_variables_initializer is deprecated. Please use tf.compat.v1.global_variables_initializer instead.
+
+2019-09-16 09:40:38,569:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:113: The name tf.train.Saver is deprecated. Please use tf.compat.v1.train.Saver instead.
+
+2019-09-16 09:40:38,613:INFO: Evaluating...
+2019-09-16 09:40:38,766:INFO: Average reward: 2.00 +/- 0.00
+2019-09-16 09:40:39,182:INFO: Evaluating...
+2019-09-16 09:40:39,273:INFO: Average reward: -0.50 +/- 0.00
+2019-09-16 09:40:40,797:INFO: Evaluating...
+2019-09-16 09:40:40,889:INFO: Average reward: 1.80 +/- 0.00
+2019-09-16 09:40:42,414:INFO: Evaluating...
+2019-09-16 09:40:42,510:INFO: Average reward: 0.50 +/- 0.00
+2019-09-16 09:40:44,089:INFO: Evaluating...
+2019-09-16 09:40:44,183:INFO: Average reward: 0.50 +/- 0.00
+2019-09-16 09:40:45,704:INFO: Evaluating...
+2019-09-16 09:40:45,791:INFO: Average reward: 4.10 +/- 0.00
+2019-09-16 09:40:47,315:INFO: Evaluating...
+2019-09-16 09:40:47,403:INFO: Average reward: 4.10 +/- 0.00
+2019-09-16 09:40:48,928:INFO: Evaluating...
+2019-09-16 09:40:49,021:INFO: Average reward: 4.10 +/- 0.00
+2019-09-16 09:40:50,607:INFO: Evaluating...
+2019-09-16 09:40:50,696:INFO: Average reward: 4.10 +/- 0.00
+2019-09-16 09:40:51,565:INFO: - Training done.
+2019-09-16 09:40:51,677:INFO: Evaluating...
+2019-09-16 09:40:51,769:INFO: Average reward: 4.10 +/- 0.00
+2019-09-16 09:40:51,790:DEBUG: findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/usr/local/lib/python3.6/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+2019-09-16 09:42:16,459:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q3_nature.py:58: conv2d (from tensorflow.python.layers.convolutional) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.keras.layers.Conv2D` instead.
+2019-09-16 09:42:16,461:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-16 09:42:16,620:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q3_nature.py:61: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-16 09:42:16,757:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/q3_nature.py:61: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-16 09:42:17,141:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/clip_ops.py:157: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2019-09-16 09:42:17,491:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:100: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2019-09-16 09:42:17,501:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:121: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-16 09:42:17,504:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:132: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+2019-09-16 09:42:17,512:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:147: The name tf.summary.merge_all is deprecated. Please use tf.compat.v1.summary.merge_all instead.
+
+2019-09-16 09:42:17,512:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:148: The name tf.summary.FileWriter is deprecated. Please use tf.compat.v1.summary.FileWriter instead.
+
+2019-09-16 09:42:17,597:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:106: The name tf.global_variables_initializer is deprecated. Please use tf.compat.v1.global_variables_initializer instead.
+
+2019-09-16 09:42:17,776:WARNING: From /media/medina/DATA/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:113: The name tf.train.Saver is deprecated. Please use tf.compat.v1.train.Saver instead.
+
+2019-09-16 09:42:17,818:INFO: Evaluating...
+2019-09-16 09:42:17,964:INFO: Average reward: -0.50 +/- 0.00
+2019-09-16 09:42:18,377:INFO: Evaluating...
+2019-09-16 09:42:18,466:INFO: Average reward: -1.00 +/- 0.00
+2019-09-16 09:42:19,983:INFO: Evaluating...
+2019-09-16 09:42:20,073:INFO: Average reward: 2.30 +/- 0.00
+2019-09-16 09:42:21,594:INFO: Evaluating...
+2019-09-16 09:42:21,684:INFO: Average reward: 0.50 +/- 0.00
+2019-09-16 09:42:23,257:INFO: Evaluating...
+2019-09-16 09:42:23,349:INFO: Average reward: 0.50 +/- 0.00
+2019-09-16 09:42:24,870:INFO: Evaluating...
+2019-09-16 09:42:24,965:INFO: Average reward: 4.10 +/- 0.00
+2019-09-16 09:42:26,488:INFO: Evaluating...
+2019-09-16 09:42:26,578:INFO: Average reward: 2.30 +/- 0.00
+2019-09-16 09:42:28,100:INFO: Evaluating...
+2019-09-16 09:42:28,190:INFO: Average reward: 0.50 +/- 0.00
+2019-09-16 09:42:29,768:INFO: Evaluating...
+2019-09-16 09:42:29,857:INFO: Average reward: 0.50 +/- 0.00
+2019-09-16 09:42:30,735:INFO: - Training done.
+2019-09-16 09:42:30,854:INFO: Evaluating...
+2019-09-16 09:42:30,945:INFO: Average reward: 0.50 +/- 0.00
+2019-09-16 09:42:30,965:DEBUG: findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/usr/local/lib/python3.6/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
