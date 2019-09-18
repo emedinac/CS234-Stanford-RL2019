@@ -103,7 +103,8 @@ class DQN(QN):
         self.add_summary()
 
         # initiliaze all variables
-        init = tf.global_variables_initializer()
+        # init = tf.global_variables_initializer()
+        init = tf.compat.v1.global_variables_initializer()
         self.sess.run(init)
 
         # synchronise q and target_q networks

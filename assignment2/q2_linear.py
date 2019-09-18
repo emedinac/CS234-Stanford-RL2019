@@ -1,5 +1,5 @@
 import tensorflow as tf
-# import tensorflow.contrib.layers as layers # Deprecated 2.0 tf. Using new TF instead.
+# import tensorflow.contrib.layers as layers # Deprecated 1.14 tf. Using new TF instead.
 
 from utils.general import get_logger
 from utils.test_env import EnvTest
@@ -52,9 +52,9 @@ class Linear(DQN):
         self.s = tf.compat.v1.placeholder(tf.uint8, shape=(None, state_shape[0], state_shape[1], state_shape[2]*self.config.state_history), name="states")
         self.a = tf.compat.v1.placeholder(tf.int32, shape=(None,), name="actions")
         self.r = tf.compat.v1.placeholder(tf.float32, shape=(None, ), name="rewards")
-        self.sp = tf.compat.v1.placeholder(tf.uint8, shape=(None, state_shape[0], state_shape[1], state_shape[2]*self.config.state_history), name="next_states")
+        self.sp = tf.compat.v1.placeholder(tf.uint8, shape=(None, state_shape[0], state_shape[1], state_shape[2]*self.config.state_history), name="next_state")
         self.done_mask = tf.compat.v1.placeholder(tf.float32, shape=(None, ), name="done")
-        self.lr = tf.compat.v1.placeholder(tf.float32, shape=None, name="learning_rate")
+        self.lr = tf.compat.v1.placeholder(tf.float32, shape=None, name="lr")
         ##############################################################
         ######################## END YOUR CODE #######################
 
@@ -91,8 +91,8 @@ class Linear(DQN):
         ##############################################################
         ################ YOUR CODE HERE - 2-3 lines ################## 
         with tf.compat.v1.variable_scope(scope, reuse=reuse):
-            out = tf.layers.flatten(state)
-            out = tf.layers.dense(  out  , num_actions)
+            out = tf.compat.v1.layers.flatten(state)
+            out = tf.compat.v1.layers.dense(  out  , num_actions)
         ##############################################################
         ######################## END YOUR CODE #######################
 
@@ -175,11 +175,8 @@ class Linear(DQN):
         """
         ##############################################################
         ##################### YOUR CODE HERE - 4-5 lines #############
-        # Q_samp = tf.cond(self.done_mask, \
-        #                 lambda: self.r, \
-        #                 lambda: self.r + self.config.gamma * tf.reduce_max(target_q, axis=1))
         Q_samp = self.r + (1-self.done_mask)*(self.config.gamma * tf.reduce_max(target_q, axis=1))
-        Qsa = tf.reduce_sum(q*tf.one_hot(self.a, depth=num_actions), axis=1) # tf.one_hot make a mask
+        Qsa = tf.reduce_sum(tf.multiply(q , tf.one_hot(self.a, depth=num_actions)), axis=1) # tf.one_hot make a mask
         self.loss = tf.reduce_mean(tf.math.squared_difference(Q_samp, Qsa))
         ##############################################################
         ######################## END YOUR CODE #######################
@@ -215,16 +212,14 @@ class Linear(DQN):
         """
         ##############################################################
         #################### YOUR CODE HERE - 8-12 lines #############
-        with tf.compat.v1.variable_scope(scope):
-            optimizer = tf.compat.v1.train.AdamOptimizer(learning_rate=self.lr)
-            variables = tf.compat.v1.get_collection(tf.compat.v1.GraphKeys.GLOBAL_VARIABLES) # Not sure if scope is necessary here...
-            grads = optimizer.compute_gradients(self.loss, variables)
-            grads = [(tf.clip_by_norm(g, config.clip_val), name) for (g,name) in grads] if self.config.grad_clip else grads
-            self.train_op = optimizer.apply_gradients(grads)
-            self.grad_norm = tf.linalg.global_norm(grads)
+        optimizer = tf.compat.v1.train.AdamOptimizer(learning_rate=self.lr)
+        variables = tf.compat.v1.get_collection(tf.compat.v1.GraphKeys.TRAINABLE_VARIABLES, scope=scope) # (which are not None) means TRAINABLE_VARIABLES in this assignment
+        grads = optimizer.compute_gradients(self.loss, variables)
+        clip_grads = [(tf.clip_by_norm(g, self.config.clip_val), name) for (g,name) in grads] if self.config.grad_clip else grads
+        self.train_op = optimizer.apply_gradients(clip_grads) # Apply clipped grads only when self.config.grad_clip is True, otherwise grads is applied.
+        self.grad_norm = tf.linalg.global_norm([g[0] for g in grads])
         ##############################################################
         ######################## END YOUR CODE #######################
-    
 
 
 if __name__ == '__main__':

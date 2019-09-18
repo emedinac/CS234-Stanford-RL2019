@@ -2069,3 +2069,333 @@ Use tf.where in 2.0, which has the same broadcast rule as np.where
 2019-09-16 09:25:13,384:INFO: Evaluating...
 2019-09-16 09:25:13,407:INFO: Average reward: 4.10 +/- 0.00
 2019-09-16 09:25:13,427:DEBUG: findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/usr/local/lib/python3.6/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+2019-09-16 15:39:51,861:DEBUG: diff parser start
+2019-09-16 15:39:51,862:DEBUG: line_lengths old: 1; new: 1
+2019-09-16 15:39:51,862:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-16 15:39:51,863:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-16 15:39:51,863:DEBUG: diff parser end
+2019-09-16 15:39:51,885:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/__init__.py
+2019-09-16 15:41:43,501:DEBUG: diff parser start
+2019-09-16 15:41:43,501:DEBUG: line_lengths old: 1; new: 1
+2019-09-16 15:41:43,501:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-16 15:41:43,502:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-16 15:41:43,503:DEBUG: diff parser end
+2019-09-16 15:41:43,529:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/check_ops.py
+2019-09-16 15:41:44,621:DEBUG: diff parser start
+2019-09-16 15:41:44,621:DEBUG: line_lengths old: 1; new: 1
+2019-09-16 15:41:44,622:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-16 15:41:44,623:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-16 15:41:44,623:DEBUG: diff parser end
+2019-09-16 15:41:47,805:DEBUG: diff parser start
+2019-09-16 15:41:47,805:DEBUG: line_lengths old: 1; new: 1
+2019-09-16 15:41:47,806:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-16 15:41:47,806:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-16 15:41:47,807:DEBUG: diff parser end
+2019-09-16 15:42:04,853:DEBUG: diff parser start
+2019-09-16 15:42:04,853:DEBUG: line_lengths old: 1; new: 1
+2019-09-16 15:42:04,853:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-16 15:42:04,854:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-16 15:42:04,855:DEBUG: diff parser end
+2019-09-16 15:42:04,923:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/framework/ops.py
+2019-09-16 15:42:18,869:DEBUG: diff parser start
+2019-09-16 15:42:18,869:DEBUG: diff parser start
+2019-09-16 15:42:18,870:DEBUG: line_lengths old: 1; new: 1
+2019-09-16 15:42:18,870:DEBUG: line_lengths old: 1; new: 1
+2019-09-16 15:42:18,870:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-16 15:42:18,870:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-16 15:42:18,871:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-16 15:42:18,871:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-16 15:42:18,872:DEBUG: diff parser end
+2019-09-16 15:42:18,872:DEBUG: diff parser end
+2019-09-16 15:42:25,029:DEBUG: diff parser start
+2019-09-16 15:42:25,029:DEBUG: diff parser start
+2019-09-16 15:42:25,029:DEBUG: line_lengths old: 1; new: 1
+2019-09-16 15:42:25,029:DEBUG: line_lengths old: 1; new: 1
+2019-09-16 15:42:25,029:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-16 15:42:25,029:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-16 15:42:25,030:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-16 15:42:25,030:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-16 15:42:25,031:DEBUG: diff parser end
+2019-09-16 15:42:25,031:DEBUG: diff parser end
+2019-09-16 15:42:31,101:DEBUG: diff parser start
+2019-09-16 15:42:31,101:DEBUG: diff parser start
+2019-09-16 15:42:31,101:DEBUG: line_lengths old: 1; new: 1
+2019-09-16 15:42:31,101:DEBUG: line_lengths old: 1; new: 1
+2019-09-16 15:42:31,102:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-16 15:42:31,102:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-16 15:42:31,102:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-16 15:42:31,102:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-16 15:42:31,103:DEBUG: diff parser end
+2019-09-16 15:42:31,103:DEBUG: diff parser end
+2019-09-16 15:42:33,509:DEBUG: diff parser start
+2019-09-16 15:42:33,509:DEBUG: diff parser start
+2019-09-16 15:42:33,509:DEBUG: line_lengths old: 1; new: 1
+2019-09-16 15:42:33,509:DEBUG: line_lengths old: 1; new: 1
+2019-09-16 15:42:33,510:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-16 15:42:33,510:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-16 15:42:33,511:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-16 15:42:33,511:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-16 15:42:33,511:DEBUG: diff parser end
+2019-09-16 15:42:33,511:DEBUG: diff parser end
+2019-09-16 15:42:33,662:DEBUG: pickle loaded: /usr/lib/python3.6/importlib/_bootstrap_external.py
+2019-09-16 15:42:33,662:DEBUG: pickle loaded: /usr/lib/python3.6/importlib/_bootstrap_external.py
+2019-09-16 15:42:33,671:DEBUG: pickle loaded: /usr/lib/python3.6/importlib/_bootstrap.py
+2019-09-16 15:42:33,671:DEBUG: pickle loaded: /usr/lib/python3.6/importlib/_bootstrap.py
+2019-09-16 15:42:33,675:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/util/deprecation.py
+2019-09-16 15:42:33,675:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/util/deprecation.py
+2019-09-16 15:42:38,413:DEBUG: diff parser start
+2019-09-16 15:42:38,413:DEBUG: diff parser start
+2019-09-16 15:42:38,414:DEBUG: line_lengths old: 1; new: 1
+2019-09-16 15:42:38,414:DEBUG: line_lengths old: 1; new: 1
+2019-09-16 15:42:38,414:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-16 15:42:38,414:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-16 15:42:38,415:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-16 15:42:38,415:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-16 15:42:38,415:DEBUG: diff parser end
+2019-09-16 15:42:38,415:DEBUG: diff parser end
+2019-09-16 15:42:53,093:DEBUG: diff parser start
+2019-09-16 15:42:53,093:DEBUG: diff parser start
+2019-09-16 15:42:53,094:DEBUG: line_lengths old: 1; new: 1
+2019-09-16 15:42:53,094:DEBUG: line_lengths old: 1; new: 1
+2019-09-16 15:42:53,094:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-16 15:42:53,094:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-16 15:42:53,095:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-16 15:42:53,095:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-16 15:42:53,095:DEBUG: diff parser end
+2019-09-16 15:42:53,095:DEBUG: diff parser end
+2019-09-16 15:43:05,275:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:95: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-16 15:43:05,284:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f6df0b91748>> could not be transformed and will be executed as-is. Please report this to the AutoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f6df0b91748>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-16 15:43:05,288:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:96: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-16 15:43:05,339:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f6df0b91748>> could not be transformed and will be executed as-is. Please report this to the AutoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f6df0b91748>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-16 15:43:05,347:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f6e4f8e87f0>> could not be transformed and will be executed as-is. Please report this to the AutoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f6e4f8e87f0>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-16 15:43:05,401:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f6e4f8e87f0>> could not be transformed and will be executed as-is. Please report this to the AutoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f6e4f8e87f0>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-16 15:43:05,467:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/clip_ops.py:157: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2019-09-16 15:43:12,754:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/__init__.py
+2019-09-16 15:43:16,916:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f6de48ca6d8>> could not be transformed and will be executed as-is. Please report this to the AutoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f6de48ca6d8>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-16 15:43:16,916:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f6de48ca6d8>> could not be transformed and will be executed as-is. Please report this to the AutoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f6de48ca6d8>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-16 15:43:24,114:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:95: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-16 15:43:24,123:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f0f09341ef0>> could not be transformed and will be executed as-is. Please report this to the AutoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f0f09341ef0>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-16 15:43:24,127:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:96: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-16 15:43:24,179:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f0f7a9c7128>> could not be transformed and will be executed as-is. Please report this to the AutoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f0f7a9c7128>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-16 15:43:24,187:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f0f7478f630>> could not be transformed and will be executed as-is. Please report this to the AutoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f0f7478f630>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-16 15:43:24,241:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f0f7478f630>> could not be transformed and will be executed as-is. Please report this to the AutoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f0f7478f630>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-16 15:43:24,307:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/clip_ops.py:157: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2019-09-16 15:43:46,032:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/__init__.py
+2019-09-16 15:43:46,033:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/keras/api/_v2/keras/__init__.py
+2019-09-16 15:43:47,046:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/keras/engine/input_spec.py
+2019-09-16 15:43:47,258:DEBUG: pickle loaded: /usr/lib/python3.6/importlib/_bootstrap_external.py
+2019-09-16 15:43:47,354:DEBUG: pickle loaded: /usr/lib/python3.6/importlib/_bootstrap.py
+2019-09-16 15:44:23,571:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:95: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-16 15:44:23,581:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f5b74d0d1d0>> could not be transformed and will be executed as-is. Please report this to the AutoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f5b74d0d1d0>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-16 15:44:23,584:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:96: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-16 15:44:23,635:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f5b74d0d1d0>> could not be transformed and will be executed as-is. Please report this to the AutoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f5b74d0d1d0>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-16 15:44:23,643:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f5b74d0d1d0>> could not be transformed and will be executed as-is. Please report this to the AutoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f5b74d0d1d0>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-16 15:44:23,695:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f5b66bf39b0>> could not be transformed and will be executed as-is. Please report this to the AutoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f5b66bf39b0>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-16 15:44:23,757:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/clip_ops.py:157: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2019-09-16 15:44:57,431:DEBUG: pickle loaded: /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py
+2019-09-16 15:44:57,433:DEBUG: pickle loaded: /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/utils/test_env.py
+2019-09-16 15:44:57,434:DEBUG: pickle loaded: /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q1_schedule.py
+2019-09-16 15:44:57,435:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/jedi/api/interpreter.py
+2019-09-16 15:44:57,453:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/IPython/core/interactiveshell.py
+2019-09-16 15:44:57,454:DEBUG: pickle loaded: /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/configs/q2_linear.py
+2019-09-16 15:44:57,456:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/IPython/core/autocall.py
+2019-09-16 15:44:57,463:DEBUG: pickle loaded: /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/utils/general.py
+2019-09-16 15:44:57,467:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/__init__.py
+2019-09-16 15:45:00,221:DEBUG: diff parser start
+2019-09-16 15:45:00,222:DEBUG: line_lengths old: 1; new: 1
+2019-09-16 15:45:00,222:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-16 15:45:00,223:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-16 15:45:00,223:DEBUG: diff parser end
+2019-09-16 15:45:00,262:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/gradients_util.py
+2019-09-16 15:45:00,269:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/util/tf_should_use.py
+2019-09-16 15:45:00,272:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/critical_section_ops.py
+2019-09-16 15:45:00,280:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/framework/dtypes.py
+2019-09-16 15:45:00,286:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/framework/device_spec.py
+2019-09-16 15:45:00,342:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/eager/backprop.py
+2019-09-16 15:45:00,368:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/framework/ops.py
+2019-09-16 15:45:00,379:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/framework/indexed_slices.py
+2019-09-16 15:45:00,380:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/module/module.py
+2019-09-16 15:45:00,390:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/ragged/ragged_tensor.py
+2019-09-16 15:45:00,396:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/framework/sparse_tensor.py
+2019-09-16 15:45:00,405:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/tensor_array_ops.py
+2019-09-16 15:45:00,412:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/framework/tensor_shape.py
+2019-09-16 15:45:00,415:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/framework/tensor_spec.py
+2019-09-16 15:45:00,416:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/unconnected_gradients.py
+2019-09-16 15:45:00,426:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/variables.py
+2019-09-16 15:45:00,430:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/_api/v2/bitwise/__init__.py
+2019-09-16 15:45:00,450:DEBUG: pickle loaded: /usr/lib/python3.6/importlib/_bootstrap_external.py
+2019-09-16 15:45:00,459:DEBUG: pickle loaded: /usr/lib/python3.6/importlib/_bootstrap.py
+2019-09-16 15:45:00,462:DEBUG: pickle loaded: /usr/lib/python3.6/__future__.py
+2019-09-16 15:45:00,463:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/_api/__init__.py
+2019-09-16 15:45:00,463:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/compat/v2_compat.py
+2019-09-16 15:45:00,463:DEBUG: pickle loaded: /usr/lib/python3.6/distutils/__init__.py
+2019-09-16 15:45:00,466:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/lib/io/file_io.py
+2019-09-16 15:45:00,484:DEBUG: pickle loaded: /usr/lib/python3.6/inspect.py
+2019-09-16 15:45:00,485:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/framework/load_library.py
+2019-09-16 15:45:00,493:DEBUG: pickle loaded: /usr/lib/python3.6/logging/__init__.py
+2019-09-16 15:45:00,493:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/tools/module_util.py
+2019-09-16 15:45:00,498:DEBUG: pickle loaded: /usr/lib/python3.6/os.py
+2019-09-16 15:45:00,502:DEBUG: pickle loaded: /usr/lib/python3.6/site.py
+2019-09-16 15:45:00,503:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/util/dispatch.py
+2019-09-16 15:45:00,599:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/gen_math_ops.py
+2019-09-16 15:45:00,684:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/math_ops.py
+2019-09-16 15:45:00,691:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/sort_ops.py
+2019-09-16 15:45:00,708:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/gen_string_ops.py
+2019-09-16 15:45:00,723:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/check_ops.py
+2019-09-16 15:45:00,727:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/_api/v2/audio/__init__.py
+2019-09-16 15:45:00,727:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/_api/v2/autograph/__init__.py
+2019-09-16 15:45:00,741:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/array_ops.py
+2019-09-16 15:45:00,826:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/gen_array_ops.py
+2019-09-16 15:45:00,871:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/control_flow_ops.py
+2019-09-16 15:45:00,879:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/clip_ops.py
+2019-09-16 15:45:00,880:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/_api/v2/compat/__init__.py
+2019-09-16 15:45:00,881:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/_api/v2/config/__init__.py
+2019-09-16 15:45:00,883:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/framework/constant_op.py
+2019-09-16 15:45:00,929:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops_v2.py
+2019-09-16 15:45:00,933:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/custom_gradient.py
+2019-09-16 15:45:00,933:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/_api/v2/data/__init__.py
+2019-09-16 15:45:00,934:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/_api/v2/debugging/__init__.py
+2019-09-16 15:45:00,934:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/_api/v2/distribute/__init__.py
+2019-09-16 15:45:00,935:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/_api/v2/dtypes/__init__.py
+2019-09-16 15:45:00,998:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/gen_data_flow_ops.py
+2019-09-16 15:45:01,025:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/special_math_ops.py
+2019-09-16 15:45:01,027:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/_api/v2/errors/__init__.py
+2019-09-16 15:45:01,028:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow_estimator/python/estimator/api/_v2/estimator/__init__.py
+2019-09-16 15:45:01,036:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/eager/context.py
+2019-09-16 15:45:01,039:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/_api/v2/experimental/__init__.py
+2019-09-16 15:45:01,042:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/linalg_ops.py
+2019-09-16 15:45:01,043:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/_api/v2/feature_column/__init__.py
+2019-09-16 15:45:01,047:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/functional_ops.py
+2019-09-16 15:45:01,052:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/eager/def_function.py
+2019-09-16 15:45:01,080:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/platform/tf_logging.py
+2019-09-16 15:45:01,087:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/framework/tensor_util.py
+2019-09-16 15:45:01,090:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/gradients_impl.py
+2019-09-16 15:45:01,091:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/_api/v2/graph_util/__init__.py
+2019-09-16 15:45:01,092:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/histogram_ops.py
+2019-09-16 15:45:01,093:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/_api/v2/image/__init__.py
+2019-09-16 15:45:01,096:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/util/deprecation.py
+2019-09-16 15:45:01,098:DEBUG: pickle loaded: /usr/lib/python3.6/contextlib.py
+2019-09-16 15:45:01,099:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/keras/api/_v2/keras/initializers/__init__.py
+2019-09-16 15:45:01,100:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/_api/v2/io/__init__.py
+2019-09-16 15:45:01,101:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/keras/api/_v2/keras/__init__.py
+2019-09-16 15:45:01,102:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/_api/v2/linalg/__init__.py
+2019-09-16 15:45:01,102:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/_api/v2/lite/__init__.py
+2019-09-16 15:45:01,103:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/_api/v2/lookup/__init__.py
+2019-09-16 15:45:01,104:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/keras/api/_v2/keras/losses/__init__.py
+2019-09-16 15:45:01,105:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/map_fn.py
+2019-09-16 15:45:01,108:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/_api/v2/math/__init__.py
+2019-09-16 15:45:01,125:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/gen_linalg_ops.py
+2019-09-16 15:45:01,132:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/keras/api/_v2/keras/metrics/__init__.py
+2019-09-16 15:45:01,132:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/_api/v2/nest/__init__.py
+2019-09-16 15:45:01,133:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/_api/v2/nn/__init__.py
+2019-09-16 15:45:01,140:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/gen_control_flow_ops.py
+2019-09-16 15:45:01,142:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/batch_ops.py
+2019-09-16 15:45:01,145:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/script_ops.py
+2019-09-16 15:45:01,146:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/keras/api/_v2/keras/optimizers/__init__.py
+2019-09-16 15:45:01,148:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/logging_ops.py
+2019-09-16 15:45:01,149:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/_api/v2/quantization/__init__.py
+2019-09-16 15:45:01,150:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/_api/v2/queue/__init__.py
+2019-09-16 15:45:01,150:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/_api/v2/ragged/__init__.py
+2019-09-16 15:45:01,150:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/_api/v2/random/__init__.py
+2019-09-16 15:45:01,161:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/_api/v2/raw_ops/__init__.py
+2019-09-16 15:45:01,162:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/framework/tensor_conversion_registry.py
+2019-09-16 15:45:01,163:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/manip_ops.py
+2019-09-16 15:45:01,164:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/_api/v2/saved_model/__init__.py
+2019-09-16 15:45:01,164:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/_api/v2/sets/__init__.py
+2019-09-16 15:45:01,171:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/_api/v2/signal/__init__.py
+2019-09-16 15:45:01,172:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/_api/v2/sparse/__init__.py
+2019-09-16 15:45:01,174:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/_api/v2/strings/__init__.py
+2019-09-16 15:45:01,174:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorboard/summary/_tf/summary/__init__.py
+2019-09-16 15:45:01,174:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/_api/v2/sysconfig/__init__.py
+2019-09-16 15:45:01,175:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/_api/v2/test/__init__.py
+2019-09-16 15:45:01,182:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/gen_logging_ops.py
+2019-09-16 15:45:01,185:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/tools/__init__.py
+2019-09-16 15:45:01,186:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/_api/v2/tpu/__init__.py
+2019-09-16 15:45:01,186:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/_api/v2/train/__init__.py
+2019-09-16 15:45:01,189:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/parallel_for/control_flow_ops.py
+2019-09-16 15:45:01,190:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/_api/v2/version/__init__.py
+2019-09-16 15:45:01,190:DEBUG: pickle loaded: /usr/local/lib/python3.6/dist-packages/tensorflow/_api/v2/xla/__init__.py
+2019-09-16 15:45:07,277:DEBUG: diff parser start
+2019-09-16 15:45:07,278:DEBUG: line_lengths old: 1; new: 1
+2019-09-16 15:45:07,278:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-16 15:45:07,279:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-16 15:45:07,279:DEBUG: diff parser end
+2019-09-16 15:45:10,510:DEBUG: diff parser start
+2019-09-16 15:45:10,510:DEBUG: line_lengths old: 1; new: 1
+2019-09-16 15:45:10,511:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-09-16 15:45:10,511:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-09-16 15:45:10,512:DEBUG: diff parser end
+2019-09-16 15:49:52,511:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:95: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-09-16 15:49:52,521:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f64dc030a90>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f64dc030a90>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-16 15:49:52,524:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/q2_linear.py:96: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-16 15:49:52,525:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-16 15:49:52,574:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f64dc030a90>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f64dc030a90>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-16 15:49:52,581:WARNING: Entity <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f650923a518>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Flatten.call of <tensorflow.python.layers.core.Flatten object at 0x7f650923a518>>: AttributeError: module 'gast' has no attribute 'Num'
+2019-09-16 15:49:52,633:WARNING: Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f650923a518>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f650923a518>>: AssertionError: Bad argument number for Name: 3, expecting 4
+2019-09-16 15:49:52,691:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/clip_ops.py:157: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2019-09-16 15:49:52,740:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:100: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2019-09-16 15:49:52,883:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:121: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-16 15:49:52,886:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:132: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+2019-09-16 15:49:52,892:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:147: The name tf.summary.merge_all is deprecated. Please use tf.compat.v1.summary.merge_all instead.
+
+2019-09-16 15:49:52,892:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:148: The name tf.summary.FileWriter is deprecated. Please use tf.compat.v1.summary.FileWriter instead.
+
+2019-09-16 15:49:52,912:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:106: The name tf.global_variables_initializer is deprecated. Please use tf.compat.v1.global_variables_initializer instead.
+
+2019-09-16 15:49:53,257:WARNING: From /mnt/Ext/Research/ReinforcementLearning/CS234-Stanford-RL2019/assignment2/core/deep_q_learning.py:113: The name tf.train.Saver is deprecated. Please use tf.compat.v1.train.Saver instead.
+
+2019-09-16 15:49:53,267:INFO: Evaluating...
+2019-09-16 15:49:53,450:INFO: Average reward: 0.00 +/- 0.00
+2019-09-16 15:49:54,950:INFO: Evaluating...
+2019-09-16 15:49:55,098:INFO: Average reward: 3.80 +/- 0.00
+2019-09-16 15:49:58,055:INFO: Evaluating...
+2019-09-16 15:49:58,094:INFO: Average reward: 3.80 +/- 0.00
+2019-09-16 15:50:00,462:INFO: Evaluating...
+2019-09-16 15:50:00,556:INFO: Average reward: 3.90 +/- 0.00
+2019-09-16 15:50:03,411:INFO: Evaluating...
+2019-09-16 15:50:03,509:INFO: Average reward: 4.00 +/- 0.00
+2019-09-16 15:50:06,169:INFO: Evaluating...
+2019-09-16 15:50:06,203:INFO: Average reward: 4.00 +/- 0.00
+2019-09-16 15:50:08,119:INFO: Evaluating...
+2019-09-16 15:50:08,159:INFO: Average reward: 4.00 +/- 0.00
+2019-09-16 15:50:10,966:INFO: Evaluating...
+2019-09-16 15:50:11,148:INFO: Average reward: 4.00 +/- 0.00
+2019-09-16 15:50:14,002:INFO: Evaluating...
+2019-09-16 15:50:14,128:INFO: Average reward: 4.00 +/- 0.00
+2019-09-16 15:50:16,374:INFO: Evaluating...
+2019-09-16 15:50:16,491:INFO: Average reward: 4.00 +/- 0.00
+2019-09-16 15:50:19,452:INFO: - Training done.
+2019-09-16 15:50:19,469:INFO: Evaluating...
+2019-09-16 15:50:19,504:INFO: Average reward: 4.10 +/- 0.00
+2019-09-16 15:50:19,513:DEBUG: update_title_pos
+2019-09-16 15:50:19,518:DEBUG: findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/usr/local/lib/python3.6/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+2019-09-16 15:50:19,598:DEBUG: update_title_pos

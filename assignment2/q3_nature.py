@@ -1,5 +1,5 @@
 import tensorflow as tf
-# import tensorflow.contrib.layers as layers # Not available in TF 2.0
+# import tensorflow.contrib.layers as layers # Not available in TF 1.14
 
 from utils.general import get_logger
 from utils.test_env import EnvTest
@@ -54,12 +54,12 @@ class NatureQN(Linear):
         """
         ##############################################################
         ################ YOUR CODE HERE - 10-15 lines ################ 
-        with tf.compat.v1.variable_scope(scope, reuse=reuse):
-            conv1 = tf.layers.conv2d(state, 32, (8,8), (4,4), activation="relu")
-            conv2 = tf.layers.conv2d(conv1, 64, (4,4), (2,2), activation="relu")
-            conv3 = tf.layers.conv2d(conv2, 64, (3,3), (1,1), activation="relu")
-            lin1 = tf.layers.dense(tf.layers.flatten(conv3),512)
-            out = tf.layers.dense(lin1,num_actions)
+        with tf.compat.v1.variable_scope(scope, reuse=reuse) as scope:
+            conv1 = tf.layers.conv2d(state, filters=32, kernel_size=8, strides=4, padding='same', activation="relu")
+            conv2 = tf.layers.conv2d(conv1, filters=64, kernel_size=4, strides=2, padding='same', activation="relu")
+            conv3 = tf.layers.conv2d(conv2, filters=64, kernel_size=3, strides=1, padding='same', activation="relu")
+            lin1 = tf.layers.dense(tf.layers.flatten(conv3), 512, activation="relu")
+            out = tf.layers.dense(lin1, num_actions)
 
         ##############################################################
         ######################## END YOUR CODE #######################
