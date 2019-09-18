@@ -10,7 +10,7 @@ Using the Frozen Lake MDP from OpenAI Gym, I implemented the following algorihtm
 - value_iteration
 
 '''
-python3 vi_and_pi.py
+Here video
 '''
 ### Assignment2:
 Using a 5x5 map and a Pong Atari game from OpenAI Gym, I implemented the following algorithms this atari environment:
@@ -19,3 +19,9 @@ Using a 5x5 map and a Pong Atari game from OpenAI Gym, I implemented the followi
 - Deep Q-Network: network architecture (3 conv layers and 2 dense layers) and its learning process.
     get_q_values
 - Train the Linear approximation and DQN in the Pong environment fitting some hyperparameters.
+- Alternatively, I trained another scenario to test the robustness of DQN, and if it follows the original paper.
+'''
+Here video
+'''
+
+### Assignment2:
