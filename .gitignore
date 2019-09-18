@@ -2,5 +2,9 @@ __pycache__/
 *.py[cod]
 
 results/
+**/*.jpg
 *.png
 *.txt
+
+!Miscs/**/*.png
+
