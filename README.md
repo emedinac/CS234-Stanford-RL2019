@@ -9,9 +9,10 @@ Using the Frozen Lake MDP from OpenAI Gym, I implemented the following algorihtm
 - policy_evaluation, policy_improvement and policy_iteration
 - value_iteration
 
-'''
-Here video
-'''
+[![Watch the video](Miscs/Images/assignment1.png)](https://youtu.be/YkN5n5OoZkE)
+
+
+
 ### Assignment2:
 Using a 5x5 map and a Pong Atari game from OpenAI Gym, I implemented the following algorithms this atari environment:
 - Linear approximation: All functions related to compute and obtain information from Q, loss function and gradient computation.
@@ -20,8 +21,8 @@ Using a 5x5 map and a Pong Atari game from OpenAI Gym, I implemented the followi
     get_q_values
 - Train the Linear approximation and DQN in the Pong environment fitting some hyperparameters.
 - Alternatively, I trained another scenario to test the robustness of DQN, and if it follows the original paper.
-'''
-Here video
-'''
 
-### Assignment2:
+[![Watch the video](Miscs/Images/assignment1.png)](https://youtu.be/YkN5n5OoZkE)
+
+
+### Assignment3:
