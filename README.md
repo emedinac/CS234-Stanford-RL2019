@@ -10,7 +10,9 @@ Using the Frozen Lake MDP from OpenAI Gym, I implemented the following algorihtm
 - value_iteration
 
 [![Watch the video](./Miscs/Images/assignment1.png)](https://youtu.be/YkN5n5OoZkE)
-(youtube video)
+
+
+
 
 
 ### Assignment2:
@@ -23,7 +25,10 @@ Using a 5x5 map and a Pong Atari game from OpenAI Gym, I implemented the followi
 - Alternatively, I trained another scenario to test the robustness of DQN, and if it follows the original paper.
 
 [![Watch the video](./Miscs/Images/assignment2.png)](https://youtu.be/q7MtgrqfYxY)
-(youtube video)
+
+
+
+
 
 ### Assignment3:
 - Soon!
