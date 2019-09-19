@@ -51,10 +51,8 @@ class DQN(QN):
     def process_state(self, state):
         """
         Processing of state
-
         State placeholders are tf.uint8 for fast transfer to GPU
         Need to cast it to float32 for the rest of the tf graph.
-
         Args:
             state: node of tf graph of shape = (batch_size, height, width, nchannels)
                     of type tf.uint8.
@@ -164,7 +162,6 @@ class DQN(QN):
     def get_best_action(self, state):
         """
         Return best action
-
         Args:
             state: 4 consecutive observations from gym
         Returns:
@@ -178,7 +175,6 @@ class DQN(QN):
     def update_step(self, t, replay_buffer, lr):
         """
         Performs an update of parameters by sampling from replay_buffer
-
         Args:
             t: number of iteration (episode and move)
             replay_buffer: ReplayBuffer instance .sample() gives batches
@@ -224,4 +220,3 @@ class DQN(QN):
         Update parametes of Q' with parameters of Q
         """
         self.sess.run(self.update_target_op)
-
