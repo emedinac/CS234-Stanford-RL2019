@@ -5,7 +5,7 @@ Theoretical questions will be available on request only (hard task to do in Late
 All codes were developed in TF 1.14 due to I was not able to change the version in a remote computer. So, many warnings appeared in terminal ipython =/
 
 ### Assignment1
-Using the Frozen Lake MDP from OpenAI Gym, I implemented the following algorihtms for the deterministic and stochastic environments:
+Using the Frozen Lake MDP (4x4) environment from OpenAI Gym, I implemented the following algorihtms for the deterministic and stochastic environments:
 - policy_evaluation, policy_improvement and policy_iteration
 - value_iteration
 
@@ -22,8 +22,7 @@ Using a 5x5 map and a Pong Atari game from OpenAI Gym, I implemented the followi
 - Deep Q-Network: network architecture (3 conv layers and 2 dense layers) and its learning process.
     get_q_values
 - Train the Linear approximation and DQN in the Pong environment fitting some hyperparameters.
-- Alternatively, I trained another scenario to test the robustness of DQN, and if it follows the original paper.
-
+- Alternatively, I trained another scenario to test the robustness of DQN, and if it follows the original paper: Boxing -v0, Breakout-v0, Pong-v0, MSPacMan-v0
 [![Watch the video](./Miscs/Images/assignment2.png)](https://youtu.be/q7MtgrqfYxY)
 
 
