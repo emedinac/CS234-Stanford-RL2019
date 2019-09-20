@@ -34,4 +34,4 @@ Using a 5x5 map and a Pong Atari game from OpenAI Gym, I implemented the followi
 - Soon!
 
 ## Acknowledgement:
-- Thanks to Federal University of Rio de Janeiro to help me with infrastructure and motivation to do this course.
+- Thanks to Federal University of Rio de Janeiro (UFRJ) to help me with infrastructure and motivation to do this course.
