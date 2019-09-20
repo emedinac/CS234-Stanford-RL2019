@@ -7,4 +7,5 @@ results/
 *.txt
 
 !Miscs/**/*.png
+!Miscs/**/*.jpg
 
