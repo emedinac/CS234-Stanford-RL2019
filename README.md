@@ -23,7 +23,7 @@ Using a 5x5 map and a Pong Atari game from OpenAI Gym, I implemented the followi
     get_q_values
 - Train the Linear approximation and DQN in the Pong environment fitting some hyperparameters.
 - Alternatively, I trained another scenario to test the robustness of DQN, and if it follows the original paper: Boxing -v0, Breakout-v0, Pong-v0, MSPacMan-v0
-[![Watch the video](./Miscs/Images/assignment2.png)](https://youtu.be/q7MtgrqfYxY)
+[![Watch the video](./Miscs/Images/assignment2.png)](https://youtu.be/tjGMSK23U2I)
 - Respective scores.
 ![picture](./Miscs/Images/scores.jpg)
 
