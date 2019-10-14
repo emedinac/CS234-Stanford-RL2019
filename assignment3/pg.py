@@ -54,7 +54,12 @@ def build_mlp(
   """
   #######################################################
   #########   YOUR CODE HERE - 7-20 lines.   ############
-  return # TODO
+  with tf.compat.v1.variable_scope(scope):
+    out = mlp_input
+    for i in range(n_layers):
+      out = tf.compat.v1.layers.dense(out, size, activation=tf.nn.relu)
+    out = tf.compat.v1.layers.dense(out, output_size, activation=output_activation)
+  return out
   #######################################################
   #########          END YOUR CODE.          ############
 
@@ -111,14 +116,13 @@ class PG(object):
     """
     #######################################################
     #########   YOUR CODE HERE - 8-12 lines.   ############
-    self.observation_placeholder = # TODO
+    self.observation_placeholder = tf.compat.v1.placeholder(tf.float32, shape=(None, self.observation_dim), name="observation_placeholder")
     if self.discrete:
-      self.action_placeholder = # TODO
+      self.action_placeholder = tf.compat.v1.placeholder(tf.int32, shape=(None, self.action_dim), name="action_dim")
     else:
-      self.action_placeholder = # TODO
-
+      self.action_placeholder = tf.compat.v1.placeholder(tf.float32, shape=(None, self.action_dim), name="action_dim")
     # Define a placeholder for advantages
-    self.advantage_placeholder = # TODO
+    self.advantage_placeholder = tf.compat.v1.placeholder(tf.float32, shape=(None, self.action_dim), name="advantage_placeholder")
     #######################################################
     #########          END YOUR CODE.          ############
 
@@ -171,16 +175,19 @@ class PG(object):
     """
     #######################################################
     #########   YOUR CODE HERE - 5-10 lines.   ############
-
     if self.discrete:
-      action_logits =         # TODO
-      self.sampled_action =   # TODO
-      self.logprob =          # TODO
+      action_logits = build_mlp(self.observation_placeholder, self.action_dim, scope, self.config.n_layers, self.config.layer_size, self.config.activation) 
+      print()
+      print()
+      self.sampled_action = tf.compat.v1.squeeze(tf.random.categorical(action_logits, 1))
+      print(self.sampled_action)
+      xxx
+      self.logprob = 1
     else:
-      action_means =          # TODO
-      log_std =               # TODO
-      self.sampled_action =   # TODO
-      self.logprob =          # TODO
+      action_means = 1
+      log_std = 1
+      self.sampled_action = 1
+      self.logprob = 1
     #######################################################
     #########          END YOUR CODE.          ############
 
@@ -201,7 +208,7 @@ class PG(object):
 
     ######################################################
     #########   YOUR CODE HERE - 1-2 lines.   ############
-    self.loss = # TODO
+    self.loss = 1# TODO
     #######################################################
     #########          END YOUR CODE.          ############
 
@@ -212,7 +219,7 @@ class PG(object):
     """
     ######################################################
     #########   YOUR CODE HERE - 1-2 lines.   ############
-    self.train_op = # TODO
+    self.train_op = 1# TODO
     #######################################################
     #########          END YOUR CODE.          ############
 
@@ -241,9 +248,9 @@ class PG(object):
     """
     ######################################################
     #########   YOUR CODE HERE - 4-8 lines.   ############
-    self.baseline = # TODO
-    self.baseline_target_placeholder = # TODO
-    self.update_baseline_op = # TODO
+    self.baseline = 1# TODO
+    self.baseline_target_placeholder = 1# TODO
+    self.update_baseline_op = 1# TODO
     #######################################################
     #########          END YOUR CODE.          ############
 
@@ -433,7 +440,7 @@ class PG(object):
       rewards = path["reward"]
       #######################################################
       #########   YOUR CODE HERE - 5-10 lines.   ############
-      returns = # TODO
+      returns = 1# TODO
       #######################################################
       #########          END YOUR CODE.          ############
       all_returns.append(returns)
@@ -472,9 +479,9 @@ class PG(object):
     #######################################################
     #########   YOUR CODE HERE - 5-10 lines.   ############
     if self.config.use_baseline:
-      # TODO
+      1# TODO
     if self.config.normalize_advantage:
-      # TODO
+      1# TODO
     #######################################################
     #########          END YOUR CODE.          ############
     return adv
