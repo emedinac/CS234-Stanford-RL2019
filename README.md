@@ -16,7 +16,7 @@ Using the Frozen Lake MDP (4x4) environment from OpenAI Gym, I implemented the f
 
 
 ### Assignment2:
-Using a 5x5 map and a Pong Atari game from OpenAI Gym, I implemented the following algorithms this atari environment:
+Using a 5x5 map and a Pong Atari game from OpenAI Gym, I implemented (and evaluated on this atari environment) the following algorithms:
 - Linear approximation: All functions related to compute and obtain information from Q, loss function and gradient computation.
     add_placeholders, get_q_values, add_update_target, add_loss, add_optimizer
 - Deep Q-Network: network architecture (3 conv layers and 2 dense layers) and its learning process.
@@ -31,7 +31,13 @@ Using a 5x5 map and a Pong Atari game from OpenAI Gym, I implemented the followi
 
 
 ### Assignment3:
-- Soon!
+Using CartPole-v1, InvertedPendulum-v1 and HalfCheetah-v1 from OpenAI Gym, I implemented (and evaluated on these environments) the following algorithms:
+-  Policy Gradient Methods with REINFORCE, baseline and Advantage Normalization.
+    build_mlp, add_placeholders build_policy_network, add_loss, add_optimizer, add_baseline, get_returns , calculate_advantage , update_baseline
+- Still uncomplete... Soon!
+
+
+![picture](./Miscs/Images/scores_task3.png)
 
 ## Acknowledgement:
 - Thanks to Federal University of Rio de Janeiro (UFRJ) to help me with infrastructure and motivation to do this course.
