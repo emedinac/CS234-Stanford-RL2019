@@ -2,7 +2,7 @@ import tensorflow as tf
 
 class config_cartpole:
     def __init__(self, use_baseline):
-        self.env_name="CartPole-v0"
+        self.env_name="CartPole-v1"
         self.record = True 
         baseline_str = 'baseline' if use_baseline else 'no_baseline'
 

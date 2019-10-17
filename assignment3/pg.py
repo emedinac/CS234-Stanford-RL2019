@@ -122,7 +122,7 @@ class PG(object):
     else:
       self.action_placeholder = tf.compat.v1.placeholder(tf.float32, shape=(None, self.action_dim), name="action_dim")
     # Define a placeholder for advantages
-    self.advantage_placeholder = tf.compat.v1.placeholder(tf.float32, shape=(None, self.action_dim), name="advantage_placeholder")
+    self.advantage_placeholder = tf.compat.v1.placeholder(tf.float32, shape=(None, ), name="advantage_placeholder")
     #######################################################
     #########          END YOUR CODE.          ############
 
@@ -244,7 +244,7 @@ class PG(object):
     """
     ######################################################
     #########   YOUR CODE HERE - 4-8 lines.   ############
-    self.baseline = tf.squeeze(build_mlp(self.observation_placeholder, self.action_dim, scope, self.config.n_layers, self.config.layer_size, self.config.activation))
+    self.baseline = tf.squeeze(build_mlp(self.observation_placeholder, 1, scope, self.config.n_layers, self.config.layer_size, self.config.activation))
     self.baseline_target_placeholder = tf.compat.v1.placeholder(tf.float32, shape=(None, ), name="baseline_target_placeholder")
     loss = tf.losses.mean_squared_error(self.baseline , self.baseline_target_placeholder)
     self.update_baseline_op = tf.compat.v1.train.AdamOptimizer(learning_rate=self.lr).minimize(loss) # Equation from assignment 3.
@@ -380,12 +380,11 @@ class PG(object):
     episode_rewards = []
     paths = []
     t = 0
-    print("\n\n\n\n\n\n\n\n\n\n\n\n")
     while (num_episodes or t < self.config.batch_size):
       state = env.reset()
       states, actions, rewards = [], [], []
       episode_reward = 0
-
+      # env.render()
       for step in range(self.config.max_ep_len):
         states.append(state)
         action = self.sess.run(self.sampled_action, feed_dict={self.observation_placeholder : states[-1][None]})
@@ -440,7 +439,6 @@ class PG(object):
       #######################################################
       #########          END YOUR CODE.          ############
       all_returns.append(returns)
-    print(returns)
     returns = np.concatenate(all_returns)
 
     return returns
@@ -515,7 +513,6 @@ class PG(object):
     scores_eval = [] # list of scores computed at iteration time
 
     for t in range(self.config.num_batches):
-
       # collect a minibatch of samples
       paths, total_rewards = self.sample_path(self.env)
       scores_eval = scores_eval + total_rewards
@@ -568,12 +565,17 @@ class PG(object):
     return avg_reward
 
   def record(self):
-     """
-     Recreate an env and record a video for one episode
-     """
-     env = gym.make(self.config.env_name)
-     env = gym.wrappers.Monitor(env, self.config.record_path, video_callable=lambda x: True, resume=True)
-     self.evaluate(env, 1)
+    """
+    Recreate an env and record a video for one episode
+    """
+    env = gym.make(self.config.env_name)
+    env = gym.wrappers.Monitor(env, self.config.record_path, video_callable=lambda x: True, resume=True)     
+    if hasattr(env.env, 'env'): # Just to plot the ENV more time
+      env.env.env.theta_threshold_radians = 7 # This line avoid a done state, setting a large value in angle.
+    else:
+      import numpy as np
+      env.env.theta_threshold_radians = 12 * 2 * np.pi / 360
+    self.evaluate(env, 10)
 
   def run(self):
     """
