@@ -25,7 +25,7 @@ Using a 5x5 map and a Pong Atari game from OpenAI Gym, I implemented (and evalua
 - Alternatively, I trained another scenario to test the robustness of DQN, and if it follows the original paper: Boxing -v0, Breakout-v0, Pong-v0, MSPacMan-v0
 [![Watch the video](./Miscs/Images/assignment2.png)](https://youtu.be/tjGMSK23U2I)
 - Respective scores.
-![picture](./Miscs/Images/scores.jpg)
+![picture](./Miscs/Images/scores_task2.jpg)
 
 
 
@@ -34,10 +34,13 @@ Using a 5x5 map and a Pong Atari game from OpenAI Gym, I implemented (and evalua
 Using CartPole-v1, InvertedPendulum-v1 and HalfCheetah-v1 from OpenAI Gym, I implemented (and evaluated on these environments) the following algorithms:
 -  Policy Gradient Methods with REINFORCE, baseline and Advantage Normalization.
     build_mlp, add_placeholders build_policy_network, add_loss, add_optimizer, add_baseline, get_returns , calculate_advantage , update_baseline
-- Still uncomplete... Soon!
+- Policy gradient methods were trained on CartPole-v1, and Pendulum was manully added by instantiation a new environment in OpenAI Gym.
+- I had some problems to save videos when Mujoco was being used, so I only saved the video using CartPole-v1.
+- Policy gradient was used in this problem, also baselines and advantages functions.
 
-
-![picture](./Miscs/Images/scores_task3.png)
+[![Watch the video](./Miscs/Images/assignment3.png)](https://youtu.be/yDOGbV1PsYY)
+- Scores of neural networks using baseline and without baseline, respectively.
+![picture](./Miscs/Images/scores_task3.jpg)
 
 ## Acknowledgement:
 - Thanks to Federal University of Rio de Janeiro (UFRJ) to help me with infrastructure and motivation to do this course.

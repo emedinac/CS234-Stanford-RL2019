@@ -183,11 +183,11 @@ class PG(object):
       action_means = build_mlp(self.observation_placeholder, self.action_dim, scope, self.config.n_layers, self.config.layer_size, self.config.activation)
       log_std = tf.compat.v1.get_variable("log_std", shape=[1, self.action_dim]) # Must be 1 because this is only a vector not a batch.
 
-      self.sampled_action = action_means + tf.exp(log_std) * tf.random.normal(tf.shape(action_means))
-      dist = tf.contrib.distributions.MultivariateNormalDiag(loc=action_means,scale_diag=tf.exp(log_std)) 
-      # self.sampled_action = tf.random.normal(shape=[1, ] ,mean=action_means, stddev=log_std)
-      # dist = tf.contrib.distributions.MultivariateNormalDiag(action_means, log_std)
-      self.logprob = dist.log_prob(self.action_placeholder)
+      # self.sampled_action = action_means + tf.exp(log_std) * tf.random.normal(tf.shape(action_means))
+      # dist = tf.contrib.distributions.MultivariateNormalDiag(loc=action_means,scale_diag=tf.exp(log_std)) 
+      self.sampled_action = tf.random.normal(shape=[1, ] ,mean=action_means, stddev=log_std)
+      dist = tf.contrib.distributions.MultivariateNormalDiag(action_means, log_std)
+      self.logprob = dist.prob(self.action_placeholder)
     #######################################################
     #########          END YOUR CODE.          ############
 
@@ -394,8 +394,8 @@ class PG(object):
         states.append(state)
         action = self.sess.run(self.sampled_action, feed_dict={self.observation_placeholder : states[-1][None]})[0]
         state, reward, done, info = env.step(action)
-        print("actions:", action)
-        print("states: ", state)
+        # print("actions:", action)
+        # print("states: ", state)
         actions.append(action)
         rewards.append(reward)
         episode_reward += reward
@@ -576,7 +576,7 @@ class PG(object):
     Recreate an env and record a video for one episode
     """
     env = gym.make(self.config.env_name)
-    env = gym.wrappers.Monitor(env, self.config.record_path, video_callable=lambda x: True, resume=True)     
+    env = gym.wrappers.Monitor(env, self.config.record_path, video_callable=lambda x: False, resume=True)     
     # if hasattr(env.env, 'env'): # Just to plot the ENV more time
     #   env.env.env.theta_threshold_radians = 7 # This line avoid a done state, setting a large value in angle.
     # else:
