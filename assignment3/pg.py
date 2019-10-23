@@ -118,9 +118,9 @@ class PG(object):
     #########   YOUR CODE HERE - 8-12 lines.   ############
     self.observation_placeholder = tf.compat.v1.placeholder(tf.float32, shape=(None, self.observation_dim), name="observation_placeholder")
     if self.discrete:
-      self.action_placeholder = tf.compat.v1.placeholder(tf.int32, shape=(None, ), name="action_dim") # Discrete
+      self.action_placeholder = tf.compat.v1.placeholder(tf.int32, shape=(None, ), name="action_placeholder") # Discrete
     else:
-      self.action_placeholder = tf.compat.v1.placeholder(tf.float32, shape=(None, self.action_dim), name="action_dim")
+      self.action_placeholder = tf.compat.v1.placeholder(tf.float32, shape=(None, self.action_dim, 1), name="action_placeholder")
     # Define a placeholder for advantages
     self.advantage_placeholder = tf.compat.v1.placeholder(tf.float32, shape=(None, ), name="advantage_placeholder")
     #######################################################
@@ -181,9 +181,9 @@ class PG(object):
       self.logprob = -tf.nn.sparse_softmax_cross_entropy_with_logits(labels=self.action_placeholder, logits=action_logits) # labels, logits
     else:
       action_means = build_mlp(self.observation_placeholder, self.action_dim, scope, self.config.n_layers, self.config.layer_size, self.config.activation)
-      log_std = tf.get_variables("log_std", shape=[None, self.action_dim])
-      self.sampled_action = tf.random_normal(shape=[None, self.action_dim] ,mean=action_means, stddev=log_std)
-      self.logprob = tf.contrib.distributions.MultivariateNormalDiag(action_means, log_std)
+      log_std = tf.compat.v1.get_variable("log_std", shape=[1, self.action_dim]) # Must be 1 because this is only a vector not a batch.
+      self.sampled_action = tf.random.normal(shape=[1, ] ,mean=action_means, stddev=log_std)
+      self.logprob = tf.contrib.distributions.MultivariateNormalDiag(action_means, log_std).sample() # Sample a vector
     #######################################################
     #########          END YOUR CODE.          ############
 
@@ -284,7 +284,8 @@ class PG(object):
     # tensorboard stuff
     self.add_summary()
     # initiliaze all variables
-    init = tf.global_variables_initializer()
+    # init = tf.global_variables_initializer()
+    init = tf.compat.v1.global_variables_initializer()
     self.sess.run(init)
 
   def add_summary(self):
@@ -307,8 +308,8 @@ class PG(object):
     tf.compat.v1.summary.scalar("Eval Reward", self.eval_reward_placeholder)
 
     # logging
-    self.merged = tf.summary.merge_all()
-    self.file_writer = tf.summary.FileWriter(self.config.output_path,self.sess.graph)
+    self.merged = tf.compat.v1.summary.merge_all()
+    self.file_writer = tf.compat.v1.summary.FileWriter(self.config.output_path,self.sess.graph)
 
   def init_averages(self):
     """
@@ -384,8 +385,8 @@ class PG(object):
       state = env.reset()
       states, actions, rewards = [], [], []
       episode_reward = 0
-      # env.render()
       for step in range(self.config.max_ep_len):
+        # env.render()
         states.append(state)
         action = self.sess.run(self.sampled_action, feed_dict={self.observation_placeholder : states[-1][None]})
         state, reward, done, info = env.step(action)
@@ -526,6 +527,11 @@ class PG(object):
       # run training operations
       if self.config.use_baseline:
         self.update_baseline(returns, observations)
+      aaa =self.sess.run(self.logprob, feed_dict={
+                    self.observation_placeholder : observations,
+                    self.action_placeholder : actions,
+                    self.advantage_placeholder : advantages})  
+      print(aaa.shape)
       self.sess.run(self.train_op, feed_dict={
                     self.observation_placeholder : observations,
                     self.action_placeholder : actions,
@@ -569,12 +575,12 @@ class PG(object):
     Recreate an env and record a video for one episode
     """
     env = gym.make(self.config.env_name)
-    env = gym.wrappers.Monitor(env, self.config.record_path, video_callable=lambda x: True, resume=True)     
-    if hasattr(env.env, 'env'): # Just to plot the ENV more time
-      env.env.env.theta_threshold_radians = 7 # This line avoid a done state, setting a large value in angle.
-    else:
-      import numpy as np
-      env.env.theta_threshold_radians = 12 * 2 * np.pi / 360
+    env = gym.wrappers.Monitor(env, self.config.record_path, video_callable=lambda x: False, resume=True)     
+    # if hasattr(env.env, 'env'): # Just to plot the ENV more time
+    #   env.env.env.theta_threshold_radians = 7 # This line avoid a done state, setting a large value in angle.
+    # else:
+    #   import numpy as np
+    #   env.env.theta_threshold_radians = 12 * 2 * np.pi / 360
     self.evaluate(env, 10)
 
   def run(self):

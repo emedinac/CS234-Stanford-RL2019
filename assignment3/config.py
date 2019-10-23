@@ -36,7 +36,7 @@ class config_cartpole:
 
 class config_pendulum:
     def __init__(self, use_baseline):
-        self.env_name="InvertedPendulum-v1"
+        self.env_name="InvertedPendulum-v2"
         self.record = True 
         baseline_str = 'baseline' if use_baseline else 'no_baseline'
 
