@@ -43,4 +43,4 @@ Using CartPole-v1, InvertedPendulum-v1 and HalfCheetah-v1 from OpenAI Gym, I imp
 ![picture](./Miscs/Images/scores_task3.jpg)
 
 ## Acknowledgement:
-- Thanks to Federal University of Rio de Janeiro (UFRJ) to help me with infrastructure and motivation to do this course.
+- Thanks to Federal University of Rio de Janeiro (UFRJ) which helped me with infrastructure and motivation to do this course.
